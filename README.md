@@ -2,7 +2,8 @@
 
 I'm a Ruby on Rails developer
 
-[<span style="background-color:#49b1e5; padding:5px; color:#fff">telegram</span>](https://t.me/anna_top)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anna_top)
+[![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:topalidisanna@gmail.com)
 
 <!--
 **antopalidi/antopalidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
