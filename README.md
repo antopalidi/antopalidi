@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Ruby on Rails developer
+
+[<span style="background-color:#49b1e5; padding:5px; color:#fff">telegram</span>](https://t.me/anna_top)
+
 <!--
 **antopalidi/antopalidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
