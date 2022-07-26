@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Ruby on Rails developer
+I'm a Ruby on Rails developer.
 
 #### [My CV](https://antopalidi.github.io/my_cv/)
 
