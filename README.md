@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm a Ruby on Rails developer.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antopalidi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 #### [My CV](https://antopalidi.github.io/my_cv/)
 -->
