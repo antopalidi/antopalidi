@@ -2,7 +2,8 @@
 
 I'm a Ruby on Rails developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antopalidi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antopalidi&count_private=true&card_width=300&show_icons=true&theme=default) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antopalidi&hide=html,css,scss&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 #### [My CV](https://antopalidi.github.io/my_cv/)
 -->
