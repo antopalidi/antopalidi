@@ -9,10 +9,10 @@ I'm a Ruby on Rails developer.
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/antopalidi)
 
 ## My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&theme=default) 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=antopalidi)](https://git.io/streak-stats)
+<img align="left" width="45%" alt="activity" src="https://streak-stats.demolab.com?user=antopalidi" />
+<img align="right" width="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antopalidi&hide=html,css,scss&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="45%" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antopalidi&hide=html,css,scss&&layout=compact" />
 
 <!--
 #### [My CV](https://antopalidi.github.io/my_cv/)
@@ -20,5 +20,3 @@ I'm a Ruby on Rails developer.
 
 <!--
 **antopalidi/antopalidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
