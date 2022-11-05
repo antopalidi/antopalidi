@@ -10,9 +10,9 @@ I'm a Ruby on Rails developer.
 
 ## My Stats :
 <!--
-<img align="left" alt="activity" src="https://streak-stats.demolab.com?user=antopalidi" />
+<img align="left" width="40%" alt="activity" src="https://streak-stats.demolab.com?user=antopalidi" />
 -->
-<img align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&hide_border=true" />
+<img align="right" width="40%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&hide_border=true" />
 <img align="left" width="45%" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antopalidi&hide=html,css,scss&&layout=compact" />
 
 <!--
