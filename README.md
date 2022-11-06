@@ -14,7 +14,7 @@ I'm a Ruby on Rails developer.
 -->
 <div>
 <img align="top" width="350px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&hide_border=true" />
-<img align="top" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antopalidi&hide=html,css,scss&&layout=compact" />
+<img align="top" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antopalidi&layout=compact" />
  </div>
 <!--
 #### [My CV](https://antopalidi.github.io/my_cv/)
