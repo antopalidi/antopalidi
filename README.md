@@ -11,6 +11,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#6](https://github.com/openpoke/decidim-module-decidim_awesome/pull/6) in [openpoke/decidim-module-decidim_awesome](https://github.com/openpoke/decidim-module-decidim_awesome)
+2. 💪 Opened PR [#36](https://github.com/openpoke/decidim-module-reporting-proposals/pull/36) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+3. 💪 Opened PR [#35](https://github.com/openpoke/decidim-module-reporting-proposals/pull/35) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+4. 💪 Opened PR [#34](https://github.com/openpoke/decidim-module-participatory-documents/pull/34) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+5. 💪 Opened PR [#28](https://github.com/openpoke/decidim-module-reporting-proposals/pull/28) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
 <!--END_SECTION:activity-->
 
 ## My Stats :
