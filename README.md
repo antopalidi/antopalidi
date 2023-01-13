@@ -11,7 +11,6 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ## My Stats :
