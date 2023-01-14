@@ -32,3 +32,8 @@ I'm a Ruby on Rails developer.
 
 <!--
 **antopalidi/antopalidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="left">
+![](https://komarev.com/ghpvc/?username=antopalidi&color=blueviolet
+</p>
+
