@@ -2,6 +2,8 @@
 
 I'm a Ruby on Rails developer.
 
+<img src="https://komarev.com/ghpvc/?username=antopalidi&style=for-the-badge&color=blueviolet">
+
 ## 📩 Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anna_top)
 [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:topalidisanna@gmail.com)
@@ -32,8 +34,4 @@ I'm a Ruby on Rails developer.
 
 <!--
 **antopalidi/antopalidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<p align="left">
-![](https://komarev.com/ghpvc/?username=antopalidi&color=blueviolet
-</p>
-
+-->
