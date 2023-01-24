@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/openpoke/decidim-module-reporting-proposals/pull/39) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-2. 💪 Opened PR [#7](https://github.com/openpoke/decidim-module-decidim_awesome/pull/7) in [openpoke/decidim-module-decidim_awesome](https://github.com/openpoke/decidim-module-decidim_awesome)
-3. 💪 Opened PR [#6](https://github.com/openpoke/decidim-module-decidim_awesome/pull/6) in [openpoke/decidim-module-decidim_awesome](https://github.com/openpoke/decidim-module-decidim_awesome)
-4. 💪 Opened PR [#36](https://github.com/openpoke/decidim-module-reporting-proposals/pull/36) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-5. 💪 Opened PR [#35](https://github.com/openpoke/decidim-module-reporting-proposals/pull/35) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+1. 🗣 Commented on [#39](https://github.com/openpoke/decidim-module-reporting-proposals/issues/39) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+2. 💪 Opened PR [#39](https://github.com/openpoke/decidim-module-reporting-proposals/pull/39) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+3. 💪 Opened PR [#7](https://github.com/openpoke/decidim-module-decidim_awesome/pull/7) in [openpoke/decidim-module-decidim_awesome](https://github.com/openpoke/decidim-module-decidim_awesome)
+4. 💪 Opened PR [#6](https://github.com/openpoke/decidim-module-decidim_awesome/pull/6) in [openpoke/decidim-module-decidim_awesome](https://github.com/openpoke/decidim-module-decidim_awesome)
+5. 💪 Opened PR [#36](https://github.com/openpoke/decidim-module-reporting-proposals/pull/36) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
 <!--END_SECTION:activity-->
 
 ## My Stats :
