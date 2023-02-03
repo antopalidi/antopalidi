@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/openpoke/decidim-module-reporting-proposals/pull/46) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-2. 💪 Opened PR [#44](https://github.com/openpoke/decidim-module-reporting-proposals/pull/44) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-3. 🗣 Commented on [#39](https://github.com/openpoke/decidim-module-reporting-proposals/issues/39) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-4. 💪 Opened PR [#39](https://github.com/openpoke/decidim-module-reporting-proposals/pull/39) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-5. 💪 Opened PR [#7](https://github.com/openpoke/decidim-module-decidim_awesome/pull/7) in [openpoke/decidim-module-decidim_awesome](https://github.com/openpoke/decidim-module-decidim_awesome)
+1. 💪 Opened PR [#48](https://github.com/openpoke/decidim-module-reporting-proposals/pull/48) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+2. 💪 Opened PR [#46](https://github.com/openpoke/decidim-module-reporting-proposals/pull/46) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+3. 💪 Opened PR [#44](https://github.com/openpoke/decidim-module-reporting-proposals/pull/44) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+4. 🗣 Commented on [#39](https://github.com/openpoke/decidim-module-reporting-proposals/issues/39) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+5. 💪 Opened PR [#39](https://github.com/openpoke/decidim-module-reporting-proposals/pull/39) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
 <!--END_SECTION:activity-->
 
 ## My Stats :
