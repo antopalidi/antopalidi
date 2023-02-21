@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/openpoke/decidim/pull/57) in [openpoke/decidim](https://github.com/openpoke/decidim)
-2. 💪 Opened PR [#56](https://github.com/openpoke/decidim-module-reporting-proposals/pull/56) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-3. 💪 Opened PR [#9](https://github.com/openpoke/decidim-module-decidim_awesome/pull/9) in [openpoke/decidim-module-decidim_awesome](https://github.com/openpoke/decidim-module-decidim_awesome)
-4. 💪 Opened PR [#8](https://github.com/openpoke/decidim-module-decidim_awesome/pull/8) in [openpoke/decidim-module-decidim_awesome](https://github.com/openpoke/decidim-module-decidim_awesome)
-5. 🗣 Commented on [#49](https://github.com/openpoke/decidim/issues/49) in [openpoke/decidim](https://github.com/openpoke/decidim)
+1. ❌ Closed PR [#57](https://github.com/openpoke/decidim-module-reporting-proposals/pull/57) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+2. 🗣 Commented on [#57](https://github.com/openpoke/decidim-module-reporting-proposals/issues/57) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+3. 💪 Opened PR [#57](https://github.com/openpoke/decidim/pull/57) in [openpoke/decidim](https://github.com/openpoke/decidim)
+4. 💪 Opened PR [#56](https://github.com/openpoke/decidim-module-reporting-proposals/pull/56) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+5. 💪 Opened PR [#9](https://github.com/openpoke/decidim-module-decidim_awesome/pull/9) in [openpoke/decidim-module-decidim_awesome](https://github.com/openpoke/decidim-module-decidim_awesome)
 <!--END_SECTION:activity-->
 
 ## My Stats :
