@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#57](https://github.com/openpoke/decidim-module-reporting-proposals/pull/57) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-2. 🗣 Commented on [#57](https://github.com/openpoke/decidim-module-reporting-proposals/issues/57) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-3. 💪 Opened PR [#57](https://github.com/openpoke/decidim/pull/57) in [openpoke/decidim](https://github.com/openpoke/decidim)
-4. 💪 Opened PR [#56](https://github.com/openpoke/decidim-module-reporting-proposals/pull/56) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-5. 💪 Opened PR [#9](https://github.com/openpoke/decidim-module-decidim_awesome/pull/9) in [openpoke/decidim-module-decidim_awesome](https://github.com/openpoke/decidim-module-decidim_awesome)
+1. 💪 Opened PR [#7](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/7) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
+2. ❌ Closed PR [#57](https://github.com/openpoke/decidim-module-reporting-proposals/pull/57) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+3. 🗣 Commented on [#57](https://github.com/openpoke/decidim-module-reporting-proposals/issues/57) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+4. 💪 Opened PR [#57](https://github.com/openpoke/decidim/pull/57) in [openpoke/decidim](https://github.com/openpoke/decidim)
+5. 💪 Opened PR [#56](https://github.com/openpoke/decidim-module-reporting-proposals/pull/56) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
 <!--END_SECTION:activity-->
 
 ## My Stats :
