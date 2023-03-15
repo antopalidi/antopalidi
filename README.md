@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/openpoke/decidim-module-newsletter_agenda/issues/14) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
-2. 💪 Opened PR [#13](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/13) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
-3. 💪 Opened PR [#78](https://github.com/openpoke/decidim-module-participatory-documents/pull/78) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-4. 💪 Opened PR [#12](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/12) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
-5. 💪 Opened PR [#69](https://github.com/GetxoUdala/decidim-getxo/pull/69) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
+1. 🗣 Commented on [#78](https://github.com/openpoke/decidim-module-participatory-documents/issues/78) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+2. ❗️ Opened issue [#14](https://github.com/openpoke/decidim-module-newsletter_agenda/issues/14) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
+3. 💪 Opened PR [#13](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/13) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
+4. 💪 Opened PR [#78](https://github.com/openpoke/decidim-module-participatory-documents/pull/78) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+5. 💪 Opened PR [#12](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/12) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
 <!--END_SECTION:activity-->
 
 ## My Stats :
