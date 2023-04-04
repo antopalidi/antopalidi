@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#139](https://github.com/coopdevs/decidim-module-action_delegator/pull/139) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
-2. 💪 Opened PR [#83](https://github.com/openpoke/decidim-module-participatory-documents/pull/83) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-3. 💪 Opened PR [#82](https://github.com/openpoke/decidim-module-participatory-documents/pull/82) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-4. 💪 Opened PR [#81](https://github.com/openpoke/decidim-module-participatory-documents/pull/81) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-5. 🗣 Commented on [#78](https://github.com/openpoke/decidim-module-participatory-documents/issues/78) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+1. 💪 Opened PR [#66](https://github.com/openpoke/decidim-module-reporting-proposals/pull/66) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+2. 💪 Opened PR [#139](https://github.com/coopdevs/decidim-module-action_delegator/pull/139) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
+3. 💪 Opened PR [#83](https://github.com/openpoke/decidim-module-participatory-documents/pull/83) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+4. 💪 Opened PR [#82](https://github.com/openpoke/decidim-module-participatory-documents/pull/82) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+5. 💪 Opened PR [#81](https://github.com/openpoke/decidim-module-participatory-documents/pull/81) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
 <!--END_SECTION:activity-->
 
 ## My Stats :
