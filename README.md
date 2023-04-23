@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144](https://github.com/coopdevs/decidim-module-action_delegator/issues/144) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
-2. 💪 Opened PR [#143](https://github.com/coopdevs/decidim-module-action_delegator/pull/143) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
-3. 💪 Opened PR [#129](https://github.com/Som-Energia/decidim-som-energia-app/pull/129) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
-4. ❌ Closed PR [#128](https://github.com/Som-Energia/decidim-som-energia-app/pull/128) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
-5. 💪 Opened PR [#128](https://github.com/Som-Energia/decidim-som-energia-app/pull/128) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
+1. 💪 Opened PR [#146](https://github.com/coopdevs/decidim-module-action_delegator/pull/146) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
+2. 🗣 Commented on [#144](https://github.com/coopdevs/decidim-module-action_delegator/issues/144) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
+3. 💪 Opened PR [#143](https://github.com/coopdevs/decidim-module-action_delegator/pull/143) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
+4. 💪 Opened PR [#129](https://github.com/Som-Energia/decidim-som-energia-app/pull/129) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
+5. ❌ Closed PR [#128](https://github.com/Som-Energia/decidim-som-energia-app/pull/128) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
 <!--END_SECTION:activity-->
 
 ## My Stats :
