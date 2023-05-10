@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/21) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
-2. 💪 Opened PR [#19](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/19) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
-3. 💪 Opened PR [#17](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/17) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
-4. 💪 Opened PR [#273](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/273) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
-5. 💪 Opened PR [#272](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/272) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
+1. 💪 Opened PR [#153](https://github.com/coopdevs/decidim-module-action_delegator/pull/153) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
+2. 💪 Opened PR [#21](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/21) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
+3. 💪 Opened PR [#19](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/19) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
+4. 💪 Opened PR [#17](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/17) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
+5. 💪 Opened PR [#273](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/273) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
 <!--END_SECTION:activity-->
 
 ## My Stats :
