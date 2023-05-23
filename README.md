@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/55) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-2. 💪 Opened PR [#73](https://github.com/openpoke/decidim-module-reporting-proposals/pull/73) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-3. 💪 Opened PR [#71](https://github.com/openpoke/decidim-module-reporting-proposals/pull/71) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-4. 💪 Opened PR [#153](https://github.com/coopdevs/decidim-module-action_delegator/pull/153) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
-5. 💪 Opened PR [#21](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/21) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
+1. 💪 Opened PR [#57](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/57) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+2. 💪 Opened PR [#55](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/55) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+3. 💪 Opened PR [#73](https://github.com/openpoke/decidim-module-reporting-proposals/pull/73) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+4. 💪 Opened PR [#71](https://github.com/openpoke/decidim-module-reporting-proposals/pull/71) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+5. 💪 Opened PR [#153](https://github.com/coopdevs/decidim-module-action_delegator/pull/153) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
 <!--END_SECTION:activity-->
 
 ## My Stats :
