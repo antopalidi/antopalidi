@@ -14,10 +14,10 @@ I'm a Ruby on Rails developer.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#57](https://github.com/decidim-vocdoni/decidim-module-vocdoni/issues/57) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-2. 💪 Opened PR [#91](https://github.com/openpoke/decidim-module-participatory-documents/pull/91) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-3. 💪 Opened PR [#90](https://github.com/openpoke/decidim-module-participatory-documents/pull/90) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-4. 💪 Opened PR [#89](https://github.com/openpoke/decidim-module-participatory-documents/pull/89) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-5. 🗣 Commented on [#87](https://github.com/openpoke/decidim-module-participatory-documents/issues/87) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+2. 🗣 Commented on [#57](https://github.com/decidim-vocdoni/decidim-module-vocdoni/issues/57) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+3. 💪 Opened PR [#91](https://github.com/openpoke/decidim-module-participatory-documents/pull/91) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+4. 💪 Opened PR [#90](https://github.com/openpoke/decidim-module-participatory-documents/pull/90) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+5. 💪 Opened PR [#89](https://github.com/openpoke/decidim-module-participatory-documents/pull/89) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
 <!--END_SECTION:activity-->
 
 ## My Stats :
