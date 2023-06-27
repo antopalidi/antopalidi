@@ -14,10 +14,10 @@ I'm a Ruby on Rails developer.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#64](https://github.com/decidim-vocdoni/decidim-module-vocdoni/issues/64) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-2. 💪 Opened PR [#64](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/64) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-3. ❗ Opened issue [#62](https://github.com/decidim-vocdoni/decidim-module-vocdoni/issues/62) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-4. 🗣 Commented on [#91](https://github.com/openpoke/decidim-module-participatory-documents/issues/91) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-5. 💪 Opened PR [#61](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/61) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+2. 🗣 Commented on [#64](https://github.com/decidim-vocdoni/decidim-module-vocdoni/issues/64) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+3. 💪 Opened PR [#64](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/64) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+4. ❗ Opened issue [#62](https://github.com/decidim-vocdoni/decidim-module-vocdoni/issues/62) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+5. 🗣 Commented on [#91](https://github.com/openpoke/decidim-module-participatory-documents/issues/91) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
 <!--END_SECTION:activity-->
 
 ## My Stats :
