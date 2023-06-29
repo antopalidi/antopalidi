@@ -15,9 +15,9 @@ I'm a Ruby on Rails developer.
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#61](https://github.com/decidim-vocdoni/decidim-module-vocdoni/issues/61) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
 2. 🗣 Commented on [#61](https://github.com/decidim-vocdoni/decidim-module-vocdoni/issues/61) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-3. 🗣 Commented on [#64](https://github.com/decidim-vocdoni/decidim-module-vocdoni/issues/64) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+3. 🗣 Commented on [#61](https://github.com/decidim-vocdoni/decidim-module-vocdoni/issues/61) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
 4. 🗣 Commented on [#64](https://github.com/decidim-vocdoni/decidim-module-vocdoni/issues/64) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-5. 💪 Opened PR [#64](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/64) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+5. 🗣 Commented on [#64](https://github.com/decidim-vocdoni/decidim-module-vocdoni/issues/64) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
 <!--END_SECTION:activity-->
 
 ## My Stats :
