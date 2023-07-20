@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/67) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-2. 🗣 Commented on [#61](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/61#issuecomment-1612561568) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-3. 🗣 Commented on [#61](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/61#issuecomment-1612435816) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-4. 🗣 Commented on [#61](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/61#issuecomment-1609720376) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-5. 🗣 Commented on [#64](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/64#issuecomment-1609080488) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+1. 🗣 Commented on [#67](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/67#issuecomment-1643504153) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+2. 💪 Opened PR [#67](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/67) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+3. 🗣 Commented on [#61](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/61#issuecomment-1612561568) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+4. 🗣 Commented on [#61](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/61#issuecomment-1612435816) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+5. 🗣 Commented on [#61](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/61#issuecomment-1609720376) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
 <!--END_SECTION:activity-->
 
 ## My Stats :
