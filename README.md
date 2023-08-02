@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#228](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/228) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-2. 🗣 Commented on [#67](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/67#issuecomment-1649291577) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-3. 💪 Opened PR [#68](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/68) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-4. 🗣 Commented on [#67](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/67#issuecomment-1643504153) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-5. 💪 Opened PR [#67](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/67) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+1. 💪 Opened PR [#3](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/3) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
+2. 💪 Opened PR [#228](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/228) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+3. 🗣 Commented on [#67](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/67#issuecomment-1649291577) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+4. 💪 Opened PR [#68](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/68) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+5. 🗣 Commented on [#67](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/67#issuecomment-1643504153) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
 <!--END_SECTION:activity-->
 
 ## My Stats :
