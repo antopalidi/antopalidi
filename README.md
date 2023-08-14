@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#104](https://github.com/Green-Party-of-Canada-Members/gpc-decidim/pull/104) in [Green-Party-of-Canada-Members/gpc-decidim](https://github.com/Green-Party-of-Canada-Members/gpc-decidim)
-2. 💪 Opened PR [#25](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/25) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
-3. 💪 Opened PR [#3](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/3) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
-4. 💪 Opened PR [#228](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/228) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-5. 🗣 Commented on [#67](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/67#issuecomment-1649291577) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+1. 💪 Opened PR [#6](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/6) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
+2. 💪 Opened PR [#104](https://github.com/Green-Party-of-Canada-Members/gpc-decidim/pull/104) in [Green-Party-of-Canada-Members/gpc-decidim](https://github.com/Green-Party-of-Canada-Members/gpc-decidim)
+3. 💪 Opened PR [#25](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/25) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
+4. 💪 Opened PR [#3](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/3) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
+5. 💪 Opened PR [#228](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/228) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
 <!--END_SECTION:activity-->
 
 ## My Stats :
