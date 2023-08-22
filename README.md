@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/7) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
-2. 💪 Opened PR [#6](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/6) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
-3. 💪 Opened PR [#104](https://github.com/Green-Party-of-Canada-Members/gpc-decidim/pull/104) in [Green-Party-of-Canada-Members/gpc-decidim](https://github.com/Green-Party-of-Canada-Members/gpc-decidim)
-4. 💪 Opened PR [#25](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/25) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
-5. 💪 Opened PR [#3](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/3) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
+1. 💪 Opened PR [#232](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/232) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+2. 💪 Opened PR [#7](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/7) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
+3. 💪 Opened PR [#6](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/6) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
+4. 💪 Opened PR [#104](https://github.com/Green-Party-of-Canada-Members/gpc-decidim/pull/104) in [Green-Party-of-Canada-Members/gpc-decidim](https://github.com/Green-Party-of-Canada-Members/gpc-decidim)
+5. 💪 Opened PR [#25](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/25) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
 <!--END_SECTION:activity-->
 
 ## My Stats :
