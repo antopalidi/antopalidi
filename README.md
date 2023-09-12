@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/16) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
-2. 💪 Opened PR [#26](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/26) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
-3. 💪 Opened PR [#14](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/14) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
-4. 💪 Opened PR [#13](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/13) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
-5. 💪 Opened PR [#12](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/12) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
+1. 💪 Opened PR [#8](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja/pull/8) in [Forum-de-la-Joventut-d-Andorra/decidim-fnja](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja)
+2. 💪 Opened PR [#8](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja/pull/8) in [Forum-de-la-Joventut-d-Andorra/decidim-fnja](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja)
+3. 💪 Opened PR [#16](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/16) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
+4. 💪 Opened PR [#26](https://github.com/openpoke/decidim-module-newsletter_agenda/pull/26) in [openpoke/decidim-module-newsletter_agenda](https://github.com/openpoke/decidim-module-newsletter_agenda)
+5. 💪 Opened PR [#14](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/14) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
 <!--END_SECTION:activity-->
 
 ## My Stats :
