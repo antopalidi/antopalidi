@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#40](https://github.com/alabs/decidim-module-calendar/pull/40) in [alabs/decidim-module-calendar](https://github.com/alabs/decidim-module-calendar)
-2. 💪 Opened PR [#3](https://github.com/openpoke/decidim-module-calendar/pull/3) in [openpoke/decidim-module-calendar](https://github.com/openpoke/decidim-module-calendar)
-3. 💪 Opened PR [#40](https://github.com/alabs/decidim-module-calendar/pull/40) in [alabs/decidim-module-calendar](https://github.com/alabs/decidim-module-calendar)
-4. 💪 Opened PR [#99](https://github.com/openpoke/decidim-module-participatory-documents/pull/99) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-5. 💪 Opened PR [#8](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja/pull/8) in [Forum-de-la-Joventut-d-Andorra/decidim-fnja](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja)
+1. 💪 Opened PR [#267](https://github.com/HospitaletDeLlobregat/decidim-hospitalet/pull/267) in [HospitaletDeLlobregat/decidim-hospitalet](https://github.com/HospitaletDeLlobregat/decidim-hospitalet)
+2. ❌ Closed PR [#40](https://github.com/alabs/decidim-module-calendar/pull/40) in [alabs/decidim-module-calendar](https://github.com/alabs/decidim-module-calendar)
+3. 💪 Opened PR [#3](https://github.com/openpoke/decidim-module-calendar/pull/3) in [openpoke/decidim-module-calendar](https://github.com/openpoke/decidim-module-calendar)
+4. 💪 Opened PR [#40](https://github.com/alabs/decidim-module-calendar/pull/40) in [alabs/decidim-module-calendar](https://github.com/alabs/decidim-module-calendar)
+5. 💪 Opened PR [#99](https://github.com/openpoke/decidim-module-participatory-documents/pull/99) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
 <!--END_SECTION:activity-->
 
 ## My Stats :
