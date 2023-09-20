@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/GetxoUdala/decidim-getxo/pull/75) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
-2. 💪 Opened PR [#267](https://github.com/HospitaletDeLlobregat/decidim-hospitalet/pull/267) in [HospitaletDeLlobregat/decidim-hospitalet](https://github.com/HospitaletDeLlobregat/decidim-hospitalet)
-3. ❌ Closed PR [#40](https://github.com/alabs/decidim-module-calendar/pull/40) in [alabs/decidim-module-calendar](https://github.com/alabs/decidim-module-calendar)
-4. 💪 Opened PR [#3](https://github.com/openpoke/decidim-module-calendar/pull/3) in [openpoke/decidim-module-calendar](https://github.com/openpoke/decidim-module-calendar)
-5. 💪 Opened PR [#40](https://github.com/alabs/decidim-module-calendar/pull/40) in [alabs/decidim-module-calendar](https://github.com/alabs/decidim-module-calendar)
+1. 💪 Opened PR [#166](https://github.com/coopdevs/decidim-module-action_delegator/pull/166) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
+2. 💪 Opened PR [#75](https://github.com/GetxoUdala/decidim-getxo/pull/75) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
+3. 💪 Opened PR [#267](https://github.com/HospitaletDeLlobregat/decidim-hospitalet/pull/267) in [HospitaletDeLlobregat/decidim-hospitalet](https://github.com/HospitaletDeLlobregat/decidim-hospitalet)
+4. ❌ Closed PR [#40](https://github.com/alabs/decidim-module-calendar/pull/40) in [alabs/decidim-module-calendar](https://github.com/alabs/decidim-module-calendar)
+5. 💪 Opened PR [#3](https://github.com/openpoke/decidim-module-calendar/pull/3) in [openpoke/decidim-module-calendar](https://github.com/openpoke/decidim-module-calendar)
 <!--END_SECTION:activity-->
 
 ## My Stats :
