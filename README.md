@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#133](https://github.com/Som-Energia/decidim-som-energia-app/pull/133) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
-2. 💪 Opened PR [#166](https://github.com/coopdevs/decidim-module-action_delegator/pull/166) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
-3. 💪 Opened PR [#75](https://github.com/GetxoUdala/decidim-getxo/pull/75) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
-4. 💪 Opened PR [#267](https://github.com/HospitaletDeLlobregat/decidim-hospitalet/pull/267) in [HospitaletDeLlobregat/decidim-hospitalet](https://github.com/HospitaletDeLlobregat/decidim-hospitalet)
-5. ❌ Closed PR [#40](https://github.com/alabs/decidim-module-calendar/pull/40) in [alabs/decidim-module-calendar](https://github.com/alabs/decidim-module-calendar)
+1. 💪 Opened PR [#34](https://github.com/energeticacoop/decidim-energetica/pull/34) in [energeticacoop/decidim-energetica](https://github.com/energeticacoop/decidim-energetica)
+2. 💪 Opened PR [#133](https://github.com/Som-Energia/decidim-som-energia-app/pull/133) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
+3. 💪 Opened PR [#166](https://github.com/coopdevs/decidim-module-action_delegator/pull/166) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
+4. 💪 Opened PR [#75](https://github.com/GetxoUdala/decidim-getxo/pull/75) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
+5. 💪 Opened PR [#267](https://github.com/HospitaletDeLlobregat/decidim-hospitalet/pull/267) in [HospitaletDeLlobregat/decidim-hospitalet](https://github.com/HospitaletDeLlobregat/decidim-hospitalet)
 <!--END_SECTION:activity-->
 
 ## My Stats :
