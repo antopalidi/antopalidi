@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/openpoke/decidim-module-participatory-documents/pull/100) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-2. 💪 Opened PR [#34](https://github.com/energeticacoop/decidim-energetica/pull/34) in [energeticacoop/decidim-energetica](https://github.com/energeticacoop/decidim-energetica)
-3. 💪 Opened PR [#133](https://github.com/Som-Energia/decidim-som-energia-app/pull/133) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
-4. 💪 Opened PR [#166](https://github.com/coopdevs/decidim-module-action_delegator/pull/166) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
-5. 💪 Opened PR [#75](https://github.com/GetxoUdala/decidim-getxo/pull/75) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
+1. 💪 Opened PR [#101](https://github.com/openpoke/decidim-module-participatory-documents/pull/101) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+2. 💪 Opened PR [#100](https://github.com/openpoke/decidim-module-participatory-documents/pull/100) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+3. 💪 Opened PR [#34](https://github.com/energeticacoop/decidim-energetica/pull/34) in [energeticacoop/decidim-energetica](https://github.com/energeticacoop/decidim-energetica)
+4. 💪 Opened PR [#133](https://github.com/Som-Energia/decidim-som-energia-app/pull/133) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
+5. 💪 Opened PR [#166](https://github.com/coopdevs/decidim-module-action_delegator/pull/166) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
 <!--END_SECTION:activity-->
 
 ## My Stats :
