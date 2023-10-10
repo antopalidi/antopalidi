@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#102](https://github.com/openpoke/decidim-module-participatory-documents/pull/102) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-2. 💪 Opened PR [#101](https://github.com/openpoke/decidim-module-participatory-documents/pull/101) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-3. 💪 Opened PR [#100](https://github.com/openpoke/decidim-module-participatory-documents/pull/100) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-4. 💪 Opened PR [#34](https://github.com/energeticacoop/decidim-energetica/pull/34) in [energeticacoop/decidim-energetica](https://github.com/energeticacoop/decidim-energetica)
-5. 💪 Opened PR [#133](https://github.com/Som-Energia/decidim-som-energia-app/pull/133) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
+1. 💪 Opened PR [#80](https://github.com/openpoke/decidim-module-reporting-proposals/pull/80) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+2. 💪 Opened PR [#102](https://github.com/openpoke/decidim-module-participatory-documents/pull/102) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+3. 💪 Opened PR [#101](https://github.com/openpoke/decidim-module-participatory-documents/pull/101) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+4. 💪 Opened PR [#100](https://github.com/openpoke/decidim-module-participatory-documents/pull/100) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+5. 💪 Opened PR [#34](https://github.com/energeticacoop/decidim-energetica/pull/34) in [energeticacoop/decidim-energetica](https://github.com/energeticacoop/decidim-energetica)
 <!--END_SECTION:activity-->
 
 ## My Stats :
