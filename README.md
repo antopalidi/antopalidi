@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#307](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/307) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
-2. 💪 Opened PR [#19](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/19) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
-3. 💪 Opened PR [#80](https://github.com/openpoke/decidim-module-reporting-proposals/pull/80) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-4. 💪 Opened PR [#102](https://github.com/openpoke/decidim-module-participatory-documents/pull/102) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-5. 💪 Opened PR [#101](https://github.com/openpoke/decidim-module-participatory-documents/pull/101) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+1. 💪 Opened PR [#37](https://github.com/energeticacoop/decidim-energetica/pull/37) in [energeticacoop/decidim-energetica](https://github.com/energeticacoop/decidim-energetica)
+2. 💪 Opened PR [#307](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/307) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
+3. 💪 Opened PR [#19](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/19) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
+4. 💪 Opened PR [#80](https://github.com/openpoke/decidim-module-reporting-proposals/pull/80) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+5. 💪 Opened PR [#102](https://github.com/openpoke/decidim-module-participatory-documents/pull/102) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
 <!--END_SECTION:activity-->
 
 ## My Stats :
