@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#107](https://github.com/openpoke/decidim-module-participatory-documents/pull/107) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-2. 💪 Opened PR [#106](https://github.com/openpoke/decidim-module-participatory-documents/pull/106) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-3. 🗣 Commented on [#102](https://github.com/openpoke/decidim-module-participatory-documents/pull/102#issuecomment-1776923178) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-4. 💪 Opened PR [#15](https://github.com/openpoke/decidim-module-decidim_awesome/pull/15) in [openpoke/decidim-module-decidim_awesome](https://github.com/openpoke/decidim-module-decidim_awesome)
-5. 💪 Opened PR [#37](https://github.com/energeticacoop/decidim-energetica/pull/37) in [energeticacoop/decidim-energetica](https://github.com/energeticacoop/decidim-energetica)
+1. 💪 Opened PR [#71](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/71) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+2. 💪 Opened PR [#107](https://github.com/openpoke/decidim-module-participatory-documents/pull/107) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+3. 💪 Opened PR [#106](https://github.com/openpoke/decidim-module-participatory-documents/pull/106) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+4. 🗣 Commented on [#102](https://github.com/openpoke/decidim-module-participatory-documents/pull/102#issuecomment-1776923178) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+5. 💪 Opened PR [#15](https://github.com/openpoke/decidim-module-decidim_awesome/pull/15) in [openpoke/decidim-module-decidim_awesome](https://github.com/openpoke/decidim-module-decidim_awesome)
 <!--END_SECTION:activity-->
 
 ## My Stats :
