@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#132](https://github.com/Green-Party-of-Canada-Members/gpc-decidim/pull/132) in [Green-Party-of-Canada-Members/gpc-decidim](https://github.com/Green-Party-of-Canada-Members/gpc-decidim)
-2. 💪 Opened PR [#71](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/71) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-3. 💪 Opened PR [#107](https://github.com/openpoke/decidim-module-participatory-documents/pull/107) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-4. 💪 Opened PR [#106](https://github.com/openpoke/decidim-module-participatory-documents/pull/106) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-5. 🗣 Commented on [#102](https://github.com/openpoke/decidim-module-participatory-documents/pull/102#issuecomment-1776923178) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+1. 🗣 Commented on [#6622](https://github.com/decidim/decidim/issues/6622#issuecomment-1831723191) in [decidim/decidim](https://github.com/decidim/decidim)
+2. 💪 Opened PR [#132](https://github.com/Green-Party-of-Canada-Members/gpc-decidim/pull/132) in [Green-Party-of-Canada-Members/gpc-decidim](https://github.com/Green-Party-of-Canada-Members/gpc-decidim)
+3. 💪 Opened PR [#71](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/71) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+4. 💪 Opened PR [#107](https://github.com/openpoke/decidim-module-participatory-documents/pull/107) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+5. 💪 Opened PR [#106](https://github.com/openpoke/decidim-module-participatory-documents/pull/106) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
 <!--END_SECTION:activity-->
 
 ## My Stats :
