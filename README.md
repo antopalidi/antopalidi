@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/71#issuecomment-1959197793) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-2. 💪 Opened PR [#9](https://github.com/decidim-ice/decidim-module-calendar/pull/9) in [decidim-ice/decidim-module-calendar](https://github.com/decidim-ice/decidim-module-calendar)
-3. 💪 Opened PR [#138](https://github.com/Green-Party-of-Canada-Members/gpc-decidim/pull/138) in [Green-Party-of-Canada-Members/gpc-decidim](https://github.com/Green-Party-of-Canada-Members/gpc-decidim)
-4. 🗣 Commented on [#51](https://github.com/PEMB2030/decidim-pemb/pull/51#issuecomment-1877698241) in [PEMB2030/decidim-pemb](https://github.com/PEMB2030/decidim-pemb)
-5. 🗣 Commented on [#21](https://github.com/ConsorciAOC-PRJ/decidim-module-trusted-ids/pull/21#issuecomment-1877695486) in [ConsorciAOC-PRJ/decidim-module-trusted-ids](https://github.com/ConsorciAOC-PRJ/decidim-module-trusted-ids)
+1. 💪 Opened PR [#76](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/76) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+2. 🗣 Commented on [#71](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/71#issuecomment-1959197793) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+3. 💪 Opened PR [#9](https://github.com/decidim-ice/decidim-module-calendar/pull/9) in [decidim-ice/decidim-module-calendar](https://github.com/decidim-ice/decidim-module-calendar)
+4. 💪 Opened PR [#138](https://github.com/Green-Party-of-Canada-Members/gpc-decidim/pull/138) in [Green-Party-of-Canada-Members/gpc-decidim](https://github.com/Green-Party-of-Canada-Members/gpc-decidim)
+5. 🗣 Commented on [#51](https://github.com/PEMB2030/decidim-pemb/pull/51#issuecomment-1877698241) in [PEMB2030/decidim-pemb](https://github.com/PEMB2030/decidim-pemb)
 <!--END_SECTION:activity-->
 
 ## My Stats :
