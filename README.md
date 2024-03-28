@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/openpoke/decidim-module-participatory-documents/pull/124#issuecomment-2023169668) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-2. 💪 Opened PR [#124](https://github.com/openpoke/decidim-module-participatory-documents/pull/124) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-3. 🗣 Commented on [#171](https://github.com/coopdevs/decidim-module-action_delegator/pull/171#issuecomment-1985487209) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
-4. 🗣 Commented on [#171](https://github.com/coopdevs/decidim-module-action_delegator/pull/171#issuecomment-1983329839) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
-5. 🗣 Commented on [#71](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/71#issuecomment-1983324539) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+1. 💪 Opened PR [#82](https://github.com/openpoke/decidim-module-reporting-proposals/pull/82) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+2. 🗣 Commented on [#124](https://github.com/openpoke/decidim-module-participatory-documents/pull/124#issuecomment-2023169668) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+3. 💪 Opened PR [#124](https://github.com/openpoke/decidim-module-participatory-documents/pull/124) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+4. 🗣 Commented on [#171](https://github.com/coopdevs/decidim-module-action_delegator/pull/171#issuecomment-1985487209) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
+5. 🗣 Commented on [#171](https://github.com/coopdevs/decidim-module-action_delegator/pull/171#issuecomment-1983329839) in [coopdevs/decidim-module-action_delegator](https://github.com/coopdevs/decidim-module-action_delegator)
 <!--END_SECTION:activity-->
 
 ## My Stats :
