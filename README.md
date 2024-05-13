@@ -26,7 +26,7 @@ I'm a Ruby on Rails developer.
 -->
 <div>
 <img align="top" width="350px" alt="Github Stats" src="https://github-readme-stats-1-brown.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&hide_border=true" />
-<img align="top" alt="top langs" src="https://github-readme-stats-git-master-antopalidis-projects.vercel.app/api/top-langs/?username=antopalidi&layout=compact" />
+<img align="top" alt="top langs" src="https://github-readme-stats-pslcsgldw-antopalidis-projects.vercel.app/api/top-langs/?username=antopalidi&layout=compact" />
  </div>
 <!--
 #### [My CV](https://antopalidi.github.io/my_cv/)
@@ -35,4 +35,3 @@ I'm a Ruby on Rails developer.
 <!--
 **antopalidi/antopalidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-https://github-readme-stats-git-master-antopalidis-projects.vercel.app/
