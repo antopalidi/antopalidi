@@ -25,7 +25,7 @@ I'm a Ruby on Rails developer.
 <img alt="activity" src="https://streak-stats.demolab.com?user=antopalidi" />
 -->
 <div>
-<img align="top" width="350px" alt="Github Stats" src="https://github-readme-stats-1-brown.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&hide_border=true" />
+<img align="top" width="350px" alt="Github Stats" src="https://github-readme-stats-git-master-antopalidis-projects.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&hide_border=true" />
 <img align="top" alt="top langs" src="https://github-readme-stats-git-master-antopalidis-projects.vercel.app/api/top-langs/?username=antopalidi&layout=compact" />
  </div>
 <!--
