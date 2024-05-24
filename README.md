@@ -13,10 +13,10 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/83) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
-2. 💪 Opened PR [#300](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/300) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-3. 💪 Opened PR [#84](https://github.com/openpoke/decidim-module-reporting-proposals/pull/84) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-4. 🗣 Commented on [#124](https://github.com/openpoke/decidim-module-participatory-documents/pull/124#issuecomment-2023169668) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
+1. 💪 Opened PR [#12879](https://github.com/decidim/decidim/pull/12879) in [decidim/decidim](https://github.com/decidim/decidim)
+2. 💪 Opened PR [#83](https://github.com/decidim-vocdoni/decidim-module-vocdoni/pull/83) in [decidim-vocdoni/decidim-module-vocdoni](https://github.com/decidim-vocdoni/decidim-module-vocdoni)
+3. 💪 Opened PR [#300](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/300) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+4. 💪 Opened PR [#84](https://github.com/openpoke/decidim-module-reporting-proposals/pull/84) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
 5. 💪 Opened PR [#124](https://github.com/openpoke/decidim-module-participatory-documents/pull/124) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
 <!--END_SECTION:activity-->
 
