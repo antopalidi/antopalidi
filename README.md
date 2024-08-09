@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13112](https://github.com/decidim/decidim/pull/13112) in [decidim/decidim](https://github.com/decidim/decidim)
-2. 💪 Opened PR [#13057](https://github.com/decidim/decidim/pull/13057) in [decidim/decidim](https://github.com/decidim/decidim)
-3. 💪 Opened PR [#13005](https://github.com/decidim/decidim/pull/13005) in [decidim/decidim](https://github.com/decidim/decidim)
-4. 🗣 Commented on [#12965](https://github.com/decidim/decidim/pull/12965#issuecomment-2158279188) in [decidim/decidim](https://github.com/decidim/decidim)
-5. 💪 Opened PR [#12965](https://github.com/decidim/decidim/pull/12965) in [decidim/decidim](https://github.com/decidim/decidim)
+1. 💪 Opened PR [#323](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/323) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+2. 💪 Opened PR [#13112](https://github.com/decidim/decidim/pull/13112) in [decidim/decidim](https://github.com/decidim/decidim)
+3. 💪 Opened PR [#13057](https://github.com/decidim/decidim/pull/13057) in [decidim/decidim](https://github.com/decidim/decidim)
+4. 💪 Opened PR [#13005](https://github.com/decidim/decidim/pull/13005) in [decidim/decidim](https://github.com/decidim/decidim)
+5. 🗣 Commented on [#12965](https://github.com/decidim/decidim/pull/12965#issuecomment-2158279188) in [decidim/decidim](https://github.com/decidim/decidim)
 <!--END_SECTION:activity-->
 
 ## My Stats :
