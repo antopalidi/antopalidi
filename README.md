@@ -13,11 +13,11 @@ I'm a Ruby on Rails developer.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13297](https://github.com/decidim/decidim/pull/13297#issuecomment-2390920262) in [decidim/decidim](https://github.com/decidim/decidim)
-2. 🗣 Commented on [#13423](https://github.com/decidim/decidim/pull/13423#issuecomment-2390919201) in [decidim/decidim](https://github.com/decidim/decidim)
-3. 🗣 Commented on [#13297](https://github.com/decidim/decidim/pull/13297#issuecomment-2376657682) in [decidim/decidim](https://github.com/decidim/decidim)
-4. 💪 Opened PR [#13423](https://github.com/decidim/decidim/pull/13423) in [decidim/decidim](https://github.com/decidim/decidim)
-5. 🗣 Commented on [#12965](https://github.com/decidim/decidim/pull/12965#issuecomment-2333783657) in [decidim/decidim](https://github.com/decidim/decidim)
+1. 💪 Opened PR [#13510](https://github.com/decidim/decidim/pull/13510) in [decidim/decidim](https://github.com/decidim/decidim)
+2. 🗣 Commented on [#13297](https://github.com/decidim/decidim/pull/13297#issuecomment-2390920262) in [decidim/decidim](https://github.com/decidim/decidim)
+3. 🗣 Commented on [#13423](https://github.com/decidim/decidim/pull/13423#issuecomment-2390919201) in [decidim/decidim](https://github.com/decidim/decidim)
+4. 🗣 Commented on [#13297](https://github.com/decidim/decidim/pull/13297#issuecomment-2376657682) in [decidim/decidim](https://github.com/decidim/decidim)
+5. 💪 Opened PR [#13423](https://github.com/decidim/decidim/pull/13423) in [decidim/decidim](https://github.com/decidim/decidim)
 <!--END_SECTION:activity-->
 
 ## My Stats :
