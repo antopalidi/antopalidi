@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Ruby on Rails developer.
+I'm a Ruby engineer.
 
 <img src="https://komarev.com/ghpvc/?username=antopalidi&color=blueviolet&style=for-the-badge">
 
