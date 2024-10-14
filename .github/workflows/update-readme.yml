@@ -21,5 +21,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: "Updated README with recent activity"
-          GH_ACTIVITY_MAX_LINES: 10
+        with:
+          MAX_LINES: 10 
 
