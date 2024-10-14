@@ -17,3 +17,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: "Updated README with recent activity"
           GH_ACTIVITY_MAX_LINES: 10
+
+      - name: Format Recent Activity to Two Columns
+        run: |
+          awk 'NR % 2 == 1 {line = $0; next} {print "<tr><td>" line "</td><td>" $0 "</td></tr>"}' README.md > TEMP.md
+          sed -i '/<!--START_SECTION:activity-->/,/<!--END_SECTION:activity-->/c\<!--START_SECTION:activity-->\n<table>\n$(cat TEMP.md)\n</table>\n<!--END_SECTION:activity-->' README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "${{ env.COMMIT_MSG }}"
+          git push
