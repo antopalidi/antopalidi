@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Ruby engineer.
+I'm Anna Topalidi, a passionate **Ruby engineer** and active contributor to **Decidim**, a leading platform for participatory democracy. I love solving complex problems through **open-source** technologies and improving the lives of communities by building scalable, user-friendly solutions.
 
 <img src="https://komarev.com/ghpvc/?username=antopalidi&color=blueviolet&style=for-the-badge">
 
