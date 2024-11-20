@@ -13,10 +13,10 @@ I'm Anna Topalidi, a passionate **Ruby engineer** and active contributor to **De
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13559](https://github.com/decidim/decidim/pull/13559#issuecomment-2470163181) in [decidim/decidim](https://github.com/decidim/decidim)
-2. 🗣 Commented on [#13521](https://github.com/decidim/decidim/pull/13521#issuecomment-2454364634) in [decidim/decidim](https://github.com/decidim/decidim)
-3. 🗣 Commented on [#13423](https://github.com/decidim/decidim/pull/13423#issuecomment-2449848696) in [decidim/decidim](https://github.com/decidim/decidim)
-4. 💪 Opened PR [#13559](https://github.com/decidim/decidim/pull/13559) in [decidim/decidim](https://github.com/decidim/decidim)
+1. 💪 Opened PR [#13680](https://github.com/decidim/decidim/pull/13680) in [decidim/decidim](https://github.com/decidim/decidim)
+2. 🗣 Commented on [#13559](https://github.com/decidim/decidim/pull/13559#issuecomment-2470163181) in [decidim/decidim](https://github.com/decidim/decidim)
+3. 🗣 Commented on [#13521](https://github.com/decidim/decidim/pull/13521#issuecomment-2454364634) in [decidim/decidim](https://github.com/decidim/decidim)
+4. 🗣 Commented on [#13423](https://github.com/decidim/decidim/pull/13423#issuecomment-2449848696) in [decidim/decidim](https://github.com/decidim/decidim)
 5. 🗣 Commented on [#13297](https://github.com/decidim/decidim/pull/13297#issuecomment-2412034284) in [decidim/decidim](https://github.com/decidim/decidim)
 <!--END_SECTION:activity-->
 
