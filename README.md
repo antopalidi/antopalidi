@@ -13,11 +13,11 @@ I'm Anna Topalidi, a passionate **Ruby engineer** and active contributor to **De
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#362](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/362) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-2. 🗣 Commented on [#13559](https://github.com/decidim/decidim/pull/13559#issuecomment-2547771266) in [decidim/decidim](https://github.com/decidim/decidim)
-3. 🗣 Commented on [#13680](https://github.com/decidim/decidim/pull/13680#issuecomment-2543194485) in [decidim/decidim](https://github.com/decidim/decidim)
-4. 🗣 Commented on [#13680](https://github.com/decidim/decidim/pull/13680#issuecomment-2531150179) in [decidim/decidim](https://github.com/decidim/decidim)
-5. 🗣 Commented on [#13680](https://github.com/decidim/decidim/pull/13680#issuecomment-2523691156) in [decidim/decidim](https://github.com/decidim/decidim)
+1. 💪 Opened PR [#89](https://github.com/GetxoUdala/decidim-getxo/pull/89) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
+2. 💪 Opened PR [#362](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/362) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+3. 🗣 Commented on [#13559](https://github.com/decidim/decidim/pull/13559#issuecomment-2547771266) in [decidim/decidim](https://github.com/decidim/decidim)
+4. 🗣 Commented on [#13680](https://github.com/decidim/decidim/pull/13680#issuecomment-2543194485) in [decidim/decidim](https://github.com/decidim/decidim)
+5. 🗣 Commented on [#13680](https://github.com/decidim/decidim/pull/13680#issuecomment-2531150179) in [decidim/decidim](https://github.com/decidim/decidim)
 <!--END_SECTION:activity-->
 
 ## My Stats :
