@@ -13,11 +13,11 @@ I'm Anna Topalidi, a passionate **Ruby engineer** and active contributor to **De
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13882](https://github.com/decidim/decidim/pull/13882#issuecomment-2607878732) in [decidim/decidim](https://github.com/decidim/decidim)
-2. 💪 Opened PR [#13882](https://github.com/decidim/decidim/pull/13882) in [decidim/decidim](https://github.com/decidim/decidim)
-3. 🗣 Commented on [#89](https://github.com/GetxoUdala/decidim-getxo/pull/89#issuecomment-2593798244) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
-4. 💪 Opened PR [#89](https://github.com/GetxoUdala/decidim-getxo/pull/89) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
-5. 💪 Opened PR [#362](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/362) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+1. 💪 Opened PR [#3](https://github.com/digidemlab/decidim-module-socio_demographic_authorization_handler/pull/3) in [digidemlab/decidim-module-socio_demographic_authorization_handler](https://github.com/digidemlab/decidim-module-socio_demographic_authorization_handler)
+2. 🗣 Commented on [#13882](https://github.com/decidim/decidim/pull/13882#issuecomment-2607878732) in [decidim/decidim](https://github.com/decidim/decidim)
+3. 💪 Opened PR [#13882](https://github.com/decidim/decidim/pull/13882) in [decidim/decidim](https://github.com/decidim/decidim)
+4. 🗣 Commented on [#89](https://github.com/GetxoUdala/decidim-getxo/pull/89#issuecomment-2593798244) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
+5. 💪 Opened PR [#89](https://github.com/GetxoUdala/decidim-getxo/pull/89) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
 <!--END_SECTION:activity-->
 
 ## My Stats :
