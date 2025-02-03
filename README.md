@@ -13,11 +13,11 @@ I'm Anna Topalidi, a passionate **Ruby engineer** and active contributor to **De
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/digidemlab/decidim-module-socio_demographic_authorization_handler/pull/4) in [digidemlab/decidim-module-socio_demographic_authorization_handler](https://github.com/digidemlab/decidim-module-socio_demographic_authorization_handler)
-2. 💪 Opened PR [#3](https://github.com/digidemlab/decidim-module-socio_demographic_authorization_handler/pull/3) in [digidemlab/decidim-module-socio_demographic_authorization_handler](https://github.com/digidemlab/decidim-module-socio_demographic_authorization_handler)
-3. 🗣 Commented on [#13882](https://github.com/decidim/decidim/pull/13882#issuecomment-2607878732) in [decidim/decidim](https://github.com/decidim/decidim)
-4. 💪 Opened PR [#13882](https://github.com/decidim/decidim/pull/13882) in [decidim/decidim](https://github.com/decidim/decidim)
-5. 🗣 Commented on [#89](https://github.com/GetxoUdala/decidim-getxo/pull/89#issuecomment-2593798244) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
+1. 💪 Opened PR [#1](https://github.com/Galdakaoko-Udala/erabaki-galdakao/pull/1) in [Galdakaoko-Udala/erabaki-galdakao](https://github.com/Galdakaoko-Udala/erabaki-galdakao)
+2. 💪 Opened PR [#4](https://github.com/digidemlab/decidim-module-socio_demographic_authorization_handler/pull/4) in [digidemlab/decidim-module-socio_demographic_authorization_handler](https://github.com/digidemlab/decidim-module-socio_demographic_authorization_handler)
+3. 💪 Opened PR [#3](https://github.com/digidemlab/decidim-module-socio_demographic_authorization_handler/pull/3) in [digidemlab/decidim-module-socio_demographic_authorization_handler](https://github.com/digidemlab/decidim-module-socio_demographic_authorization_handler)
+4. 🗣 Commented on [#13882](https://github.com/decidim/decidim/pull/13882#issuecomment-2607878732) in [decidim/decidim](https://github.com/decidim/decidim)
+5. 💪 Opened PR [#13882](https://github.com/decidim/decidim/pull/13882) in [decidim/decidim](https://github.com/decidim/decidim)
 <!--END_SECTION:activity-->
 
 ## My Stats :
