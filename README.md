@@ -13,11 +13,11 @@ I'm Anna Topalidi, a passionate **Ruby engineer** and active contributor to **De
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](https://github.com/openpoke/decidim/pull/88) in [openpoke/decidim](https://github.com/openpoke/decidim)
-2. 💪 Opened PR [#87](https://github.com/openpoke/decidim/pull/87) in [openpoke/decidim](https://github.com/openpoke/decidim)
-3. 🗣 Commented on [#86](https://github.com/openpoke/decidim/pull/86#issuecomment-2703186439) in [openpoke/decidim](https://github.com/openpoke/decidim)
-4. 🗣 Commented on [#13882](https://github.com/decidim/decidim/pull/13882#issuecomment-2690223162) in [decidim/decidim](https://github.com/decidim/decidim)
-5. 💪 Opened PR [#86](https://github.com/openpoke/decidim/pull/86) in [openpoke/decidim](https://github.com/openpoke/decidim)
+1. 💪 Opened PR [#89](https://github.com/openpoke/decidim/pull/89) in [openpoke/decidim](https://github.com/openpoke/decidim)
+2. 💪 Opened PR [#88](https://github.com/openpoke/decidim/pull/88) in [openpoke/decidim](https://github.com/openpoke/decidim)
+3. 💪 Opened PR [#87](https://github.com/openpoke/decidim/pull/87) in [openpoke/decidim](https://github.com/openpoke/decidim)
+4. 🗣 Commented on [#86](https://github.com/openpoke/decidim/pull/86#issuecomment-2703186439) in [openpoke/decidim](https://github.com/openpoke/decidim)
+5. 🗣 Commented on [#13882](https://github.com/decidim/decidim/pull/13882#issuecomment-2690223162) in [decidim/decidim](https://github.com/decidim/decidim)
 <!--END_SECTION:activity-->
 
 ## My Stats :
