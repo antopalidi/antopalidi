@@ -13,11 +13,11 @@ I'm Anna Topalidi, a passionate **Ruby engineer** and active contributor to **De
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#107](https://github.com/openpoke/decidim-module-reporting-proposals/pull/107) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-2. 💪 Opened PR [#14492](https://github.com/decidim/decidim/pull/14492) in [decidim/decidim](https://github.com/decidim/decidim)
-3. 💪 Opened PR [#14470](https://github.com/decidim/decidim/pull/14470) in [decidim/decidim](https://github.com/decidim/decidim)
-4. 💪 Opened PR [#1](https://github.com/openpoke/decidim-module-extra_user_fields/pull/1) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
-5. 💪 Opened PR [#14387](https://github.com/decidim/decidim/pull/14387) in [decidim/decidim](https://github.com/decidim/decidim)
+1. ❌ Closed PR [#106](https://github.com/openpoke/decidim-module-reporting-proposals/pull/106) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+2. 💪 Opened PR [#107](https://github.com/openpoke/decidim-module-reporting-proposals/pull/107) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+3. 💪 Opened PR [#14492](https://github.com/decidim/decidim/pull/14492) in [decidim/decidim](https://github.com/decidim/decidim)
+4. 💪 Opened PR [#14470](https://github.com/decidim/decidim/pull/14470) in [decidim/decidim](https://github.com/decidim/decidim)
+5. 💪 Opened PR [#1](https://github.com/openpoke/decidim-module-extra_user_fields/pull/1) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
 <!--END_SECTION:activity-->
 
 ## My Stats :
