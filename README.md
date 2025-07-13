@@ -26,8 +26,8 @@ I'm Anna Topalidi, a passionate **Ruby engineer** and active contributor to **De
 -->
 <div>
 <img align="top" width="350px" alt="Github Stats" src="https://github-readme-stats-git-master-antopalidis-projects.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&hide_border=true" />
-<img align="top" alt="top langs" src="https://github-readme-stats-git-master-antopalidis-projects.vercel.app/api/top-langs/?username=antopalidi&layout=compact" />
- </div>
+<!-- <img align="top" alt="top langs" src="https://github-readme-stats-git-master-antopalidis-projects.vercel.app/api/top-langs/?username=antopalidi&layout=compact" />
+ </div> -->
 
 <!--
 **antopalidi/antopalidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
