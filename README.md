@@ -13,11 +13,11 @@ I'm Anna Topalidi, a passionate **Ruby engineer** and active contributor to **De
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14783](https://github.com/decidim/decidim/pull/14783#issuecomment-2987161662) in [decidim/decidim](https://github.com/decidim/decidim)
-2. 💪 Opened PR [#14859](https://github.com/decidim/decidim/pull/14859) in [decidim/decidim](https://github.com/decidim/decidim)
-3. 💪 Opened PR [#37](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona/pull/37) in [PEMB2030/decidim-capitalofdemocracy-barcelona](https://github.com/PEMB2030/decidim-capitalofdemocracy-barcelona)
-4. 💪 Opened PR [#127](https://github.com/openpoke/decidim-module-participatory-documents/pull/127) in [openpoke/decidim-module-participatory-documents](https://github.com/openpoke/decidim-module-participatory-documents)
-5. 💪 Opened PR [#14783](https://github.com/decidim/decidim/pull/14783) in [decidim/decidim](https://github.com/decidim/decidim)
+1. 💪 Opened PR [#431](undefined) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+2.  Assigned issue [#429](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/429) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+3. 💪 Opened PR [#189](undefined) in [openpoke/decidim-module-action_delegator](https://github.com/openpoke/decidim-module-action_delegator)
+4. ❌ Assigned PR [#188](undefined) in [openpoke/decidim-module-action_delegator](https://github.com/openpoke/decidim-module-action_delegator)
+5. 💪 Opened PR [#188](undefined) in [openpoke/decidim-module-action_delegator](https://github.com/openpoke/decidim-module-action_delegator)
 <!--END_SECTION:activity-->
 
 ## My Stats :
