@@ -1,6 +1,9 @@
-### Hi there 👋
+# 👋 Hi there, I'm Anna!
 
-I'm Anna Topalidi, a passionate **Ruby engineer** and active contributor to **Decidim**, a leading platform for participatory democracy. I love solving complex problems through **open-source** technologies and improving the lives of communities by building scalable, user-friendly solutions.
+A passionate **Ruby on Rails engineer**, open source contributor,  
+and active developer behind **Decidim** — a platform for participatory democracy. 
+
+Also an **IEEE Senior Member**.
 
 <img src="https://komarev.com/ghpvc/?username=antopalidi&color=blueviolet&style=for-the-badge">
 
