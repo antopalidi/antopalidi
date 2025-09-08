@@ -16,7 +16,7 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/openpoke/decidim-module-extra_user_fields/pull/8) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+1. ❌ Assigned PR [#26](undefined) in [openpoke/decidim_colabs](https://github.com/openpoke/decidim_colabs)
 2. 💪 Opened PR [#26](undefined) in [openpoke/decidim_colabs](https://github.com/openpoke/decidim_colabs)
 3.  Assigned issue [#25](https://github.com/openpoke/decidim_colabs/issues/25) in [openpoke/decidim_colabs](https://github.com/openpoke/decidim_colabs)
 4. 💪 Opened PR [#443](undefined) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
