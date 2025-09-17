@@ -26,8 +26,8 @@ Also an **IEEE Senior Member**.
 ## My Stats :
 
 <div>
-<img align="top" width="350px" alt="Github Stats" src="https://github-readme-stats-git-master-antopalidis-projects.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&hide_border=true" />
-<img align="top" width="350px" alt="activity" src="https://streak-stats.demolab.com?user=antopalidi" />
+<img align="top" width="350px" alt="Github Stats" src="https://github-readme-stats-git-master-antopalidis-projects.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true&show_owner=true" />
+<!-- <img align="top" width="350px" alt="activity" src="https://streak-stats.demolab.com?user=antopalidi" /> -->
 </div>
 <!-- <img align="top" alt="top langs" src="https://github-readme-stats-git-master-antopalidis-projects.vercel.app/api/top-langs/?username=antopalidi&layout=compact" />-->
 <!--
