@@ -16,11 +16,11 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15318](https://github.com/decidim/decidim/pull/15318) in [decidim/decidim](https://github.com/decidim/decidim)
-2. 💪 Opened PR [#196](https://github.com/openpoke/decidim-module-action_delegator/pull/196) in [openpoke/decidim-module-action_delegator](https://github.com/openpoke/decidim-module-action_delegator)
-3. 💪 Opened PR [#195](https://github.com/openpoke/decidim-module-action_delegator/pull/195) in [openpoke/decidim-module-action_delegator](https://github.com/openpoke/decidim-module-action_delegator)
-4. 💪 Opened PR [#194](https://github.com/openpoke/decidim-module-action_delegator/pull/194) in [openpoke/decidim-module-action_delegator](https://github.com/openpoke/decidim-module-action_delegator)
-5. 🗣 Commented on [#26](https://github.com/openpoke/decidim_colabs/pull/26#issuecomment-3270715936) in [openpoke/decidim_colabs](https://github.com/openpoke/decidim_colabs)
+1. 💪 Opened PR [#15329](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
+2.  Assigned issue [#15323](https://github.com/decidim/decidim/issues/15323) in [decidim/decidim](https://github.com/decidim/decidim)
+3. 💪 Opened PR [#15324](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
+4. ❌ Labeled PR [#15318](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
+5. 💪 Opened PR [#15318](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
 <!--END_SECTION:activity-->
 
 ## My Stats :
