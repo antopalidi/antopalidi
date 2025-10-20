@@ -16,11 +16,11 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#15324](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
-2. ❌ Assigned PR [#18](undefined) in [openpoke/decidim-openeu](https://github.com/openpoke/decidim-openeu)
-3. 💪 Opened PR [#18](undefined) in [openpoke/decidim-openeu](https://github.com/openpoke/decidim-openeu)
-4.  Assigned issue [#12](https://github.com/openpoke/decidim-openeu/issues/12) in [openpoke/decidim-openeu](https://github.com/openpoke/decidim-openeu)
-5. 💪 Opened PR [#15329](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
+1. ❌ Labeled PR [#15329](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
+2. ❌ Labeled PR [#15324](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
+3. ❌ Assigned PR [#18](undefined) in [openpoke/decidim-openeu](https://github.com/openpoke/decidim-openeu)
+4. 💪 Opened PR [#18](undefined) in [openpoke/decidim-openeu](https://github.com/openpoke/decidim-openeu)
+5.  Assigned issue [#12](https://github.com/openpoke/decidim-openeu/issues/12) in [openpoke/decidim-openeu](https://github.com/openpoke/decidim-openeu)
 <!--END_SECTION:activity-->
 
 ## My Stats :
