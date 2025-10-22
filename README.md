@@ -16,11 +16,11 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#480](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/480) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-2. 💪 Opened PR [#479](undefined) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-3.  Assigned issue [#478](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/478) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-4. ❌ Labeled PR [#15329](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
-5. ❌ Labeled PR [#15324](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
+1. ❌ Assigned PR [#481](undefined) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+2. 💪 Opened PR [#481](undefined) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+3. ❗ Opened issue [#480](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/480) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+4. 💪 Opened PR [#479](undefined) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+5.  Assigned issue [#478](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/478) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
 <!--END_SECTION:activity-->
 
 ## My Stats :
