@@ -16,8 +16,8 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](undefined) in [openpoke/decidim-module-term_customizer](https://github.com/openpoke/decidim-module-term_customizer)
-2. ❌ Assigned PR [#479](undefined) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+1.  Assigned issue [#319](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/issues/319) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
+2. 💪 Opened PR [#6](undefined) in [openpoke/decidim-module-term_customizer](https://github.com/openpoke/decidim-module-term_customizer)
 3. ❌ Assigned PR [#481](undefined) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
 4. 💪 Opened PR [#481](undefined) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
 5. ❗ Opened issue [#480](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/480) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
