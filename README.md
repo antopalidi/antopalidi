@@ -17,10 +17,10 @@ Also an **IEEE Senior Member**.
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#15687](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
-2. 🗣 Commented on [#15329](https://github.com/decidim/decidim/pull/15329#issuecomment-3584940466) in [decidim/decidim](https://github.com/decidim/decidim)
-3. ❌ Assigned PR [#320](undefined) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
-4. 💪 Opened PR [#320](undefined) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
-5.  Assigned issue [#319](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/issues/319) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
+2. ❌ Merged PR [#320](undefined) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
+3. ❌ Merged PR [#15329](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
+4. 🗣 Commented on [#15329](https://github.com/decidim/decidim/pull/15329#issuecomment-3584940466) in [decidim/decidim](https://github.com/decidim/decidim)
+5. ❌ Assigned PR [#320](undefined) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
 <!--END_SECTION:activity-->
 
 ## My Stats :
