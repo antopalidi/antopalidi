@@ -16,11 +16,11 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15761](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
-2. 💪 Opened PR [#15760](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
-3. ❌ Merged PR [#15687](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
-4. 💪 Opened PR [#15742](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
-5. ❌ Merged PR [#15714](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
+1. ❌ Merged PR [#8](undefined) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+2. 💪 Opened PR [#15761](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
+3. 💪 Opened PR [#15760](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
+4. ❌ Merged PR [#15687](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
+5. 💪 Opened PR [#15742](undefined) in [decidim/decidim](https://github.com/decidim/decidim)
 <!--END_SECTION:activity-->
 
 ## My Stats :
