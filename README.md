@@ -16,11 +16,11 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#14](undefined) in [openpoke/decidim-module-pokecode](https://github.com/openpoke/decidim-module-pokecode)
-2. 💪 Opened PR [#14](undefined) in [openpoke/decidim-module-pokecode](https://github.com/openpoke/decidim-module-pokecode)
-3. ❌ Merged PR [#9](undefined) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
-4. 💪 Opened PR [#21](undefined) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
-5. 🗣 Commented on [#9](https://github.com/openpoke/decidim-module-extra_user_fields/pull/9#issuecomment-3656364336) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+1. ❌ Merged PR [#21](undefined) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
+2. ❌ Merged PR [#14](undefined) in [openpoke/decidim-module-pokecode](https://github.com/openpoke/decidim-module-pokecode)
+3. 💪 Opened PR [#14](undefined) in [openpoke/decidim-module-pokecode](https://github.com/openpoke/decidim-module-pokecode)
+4. ❌ Merged PR [#9](undefined) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+5. 💪 Opened PR [#21](undefined) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
 <!--END_SECTION:activity-->
 
 ## My Stats :
