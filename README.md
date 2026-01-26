@@ -16,11 +16,11 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/openpoke/decidim-module-chatbot/pull/9) in [openpoke/decidim-module-chatbot](https://github.com/openpoke/decidim-module-chatbot)
-2. 🎉 Merged PR [#7](https://github.com/openpoke/decidim-module-extra_censuses/pull/7) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
-3. 🎉 Merged PR [#6](https://github.com/openpoke/decidim-module-extra_censuses/pull/6) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
-4. 🎉 Merged PR [#5](https://github.com/openpoke/decidim-module-extra_censuses/pull/5) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
-5. ℹ️ Labeled PR [#7](https://github.com/openpoke/decidim-module-extra_censuses/pull/7) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
+1. ℹ️ Assigned issue [#17](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja/issues/17) in [Forum-de-la-Joventut-d-Andorra/decidim-fnja](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja)
+2. 💪 Opened PR [#9](https://github.com/openpoke/decidim-module-chatbot/pull/9) in [openpoke/decidim-module-chatbot](https://github.com/openpoke/decidim-module-chatbot)
+3. 🎉 Merged PR [#7](https://github.com/openpoke/decidim-module-extra_censuses/pull/7) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
+4. 🎉 Merged PR [#6](https://github.com/openpoke/decidim-module-extra_censuses/pull/6) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
+5. 🎉 Merged PR [#5](https://github.com/openpoke/decidim-module-extra_censuses/pull/5) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
 <!--END_SECTION:activity-->
 
 ## My Stats :
