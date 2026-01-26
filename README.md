@@ -16,11 +16,11 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/openpoke/decidim-module-chatbot/pull/9) in [openpoke/decidim-module-chatbot](https://github.com/openpoke/decidim-module-chatbot)
-2. 🗣 Commented on [#9](https://github.com/openpoke/decidim-module-chatbot/pull/9#issuecomment-3800545413) in [openpoke/decidim-module-chatbot](https://github.com/openpoke/decidim-module-chatbot)
-3. ℹ️ Assigned issue [#17](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja/issues/17) in [Forum-de-la-Joventut-d-Andorra/decidim-fnja](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja)
-4. 💪 Opened PR [#9](https://github.com/openpoke/decidim-module-chatbot/pull/9) in [openpoke/decidim-module-chatbot](https://github.com/openpoke/decidim-module-chatbot)
-5. 🎉 Merged PR [#7](https://github.com/openpoke/decidim-module-extra_censuses/pull/7) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
+1. 💪 Opened PR [#18](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja/pull/18) in [Forum-de-la-Joventut-d-Andorra/decidim-fnja](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja)
+2. 🎉 Merged PR [#9](https://github.com/openpoke/decidim-module-chatbot/pull/9) in [openpoke/decidim-module-chatbot](https://github.com/openpoke/decidim-module-chatbot)
+3. 🗣 Commented on [#9](https://github.com/openpoke/decidim-module-chatbot/pull/9#issuecomment-3800545413) in [openpoke/decidim-module-chatbot](https://github.com/openpoke/decidim-module-chatbot)
+4. ℹ️ Assigned issue [#17](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja/issues/17) in [Forum-de-la-Joventut-d-Andorra/decidim-fnja](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja)
+5. 💪 Opened PR [#9](https://github.com/openpoke/decidim-module-chatbot/pull/9) in [openpoke/decidim-module-chatbot](https://github.com/openpoke/decidim-module-chatbot)
 <!--END_SECTION:activity-->
 
 ## My Stats :
