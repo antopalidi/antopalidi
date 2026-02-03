@@ -16,11 +16,11 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja/pull/18) in [Forum-de-la-Joventut-d-Andorra/decidim-fnja](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja)
-2. 💪 Opened PR [#18](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja/pull/18) in [Forum-de-la-Joventut-d-Andorra/decidim-fnja](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja)
-3. 🎉 Merged PR [#9](https://github.com/openpoke/decidim-module-chatbot/pull/9) in [openpoke/decidim-module-chatbot](https://github.com/openpoke/decidim-module-chatbot)
-4. 🗣 Commented on [#9](https://github.com/openpoke/decidim-module-chatbot/pull/9#issuecomment-3800545413) in [openpoke/decidim-module-chatbot](https://github.com/openpoke/decidim-module-chatbot)
-5. ℹ️ Assigned issue [#17](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja/issues/17) in [Forum-de-la-Joventut-d-Andorra/decidim-fnja](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja)
+1. 🗣 Commented on [#10](https://github.com/openpoke/decidim-module-chatbot/pull/10#issuecomment-3840917567) in [openpoke/decidim-module-chatbot](https://github.com/openpoke/decidim-module-chatbot)
+2. 🎉 Merged PR [#18](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja/pull/18) in [Forum-de-la-Joventut-d-Andorra/decidim-fnja](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja)
+3. 💪 Opened PR [#18](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja/pull/18) in [Forum-de-la-Joventut-d-Andorra/decidim-fnja](https://github.com/Forum-de-la-Joventut-d-Andorra/decidim-fnja)
+4. 🎉 Merged PR [#9](https://github.com/openpoke/decidim-module-chatbot/pull/9) in [openpoke/decidim-module-chatbot](https://github.com/openpoke/decidim-module-chatbot)
+5. 🗣 Commented on [#9](https://github.com/openpoke/decidim-module-chatbot/pull/9#issuecomment-3800545413) in [openpoke/decidim-module-chatbot](https://github.com/openpoke/decidim-module-chatbot)
 <!--END_SECTION:activity-->
 
 ## My Stats :
