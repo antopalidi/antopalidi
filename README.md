@@ -16,11 +16,11 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/openpoke/decidim-module-civicrm/pull/40) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
-2. 💪 Opened PR [#40](https://github.com/openpoke/decidim-module-civicrm/pull/40) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
-3. 🎉 Merged PR [#39](https://github.com/openpoke/decidim-module-civicrm/pull/39) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
-4. 🎉 Merged PR [#110](https://github.com/GetxoUdala/decidim-getxo/pull/110) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
-5. 💪 Opened PR [#39](https://github.com/openpoke/decidim-module-civicrm/pull/39) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
+1. 💪 Opened PR [#518](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/518) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+2. 🎉 Merged PR [#40](https://github.com/openpoke/decidim-module-civicrm/pull/40) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
+3. 💪 Opened PR [#40](https://github.com/openpoke/decidim-module-civicrm/pull/40) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
+4. 🎉 Merged PR [#39](https://github.com/openpoke/decidim-module-civicrm/pull/39) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
+5. 🎉 Merged PR [#110](https://github.com/GetxoUdala/decidim-getxo/pull/110) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
 <!--END_SECTION:activity-->
 
 ## My Stats :
