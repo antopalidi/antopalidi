@@ -2,16 +2,18 @@ name: Update README
 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v3
         with:
