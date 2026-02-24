@@ -16,6 +16,22 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. placeholder
+2. placeholder
+3. placeholder
+4. placeholder
+5. placeholder
+6. placeholder
+7. placeholder
+8. placeholder
+9. placeholder
+10. placeholder
+11. placeholder
+12. placeholder
+13. placeholder
+14. placeholder
+15. placeholder
+<!--END_SECTION:activity-->
 
 ## My Stats :
 <table>
