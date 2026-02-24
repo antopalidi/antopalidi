@@ -16,11 +16,11 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#519](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/519) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-2. ℹ️ Assigned issue [#515](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/515) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-3. ℹ️ Assigned issue [#509](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/509) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-4. 💪 Opened PR [#518](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/518) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-5. 🎉 Merged PR [#40](https://github.com/openpoke/decidim-module-civicrm/pull/40) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
+1. ℹ️ Assigned issue [#14](https://github.com/openpoke/decidim-module-extra_user_fields/issues/14) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+2. ℹ️ Assigned issue [#10](https://github.com/openpoke/decidim-module-extra_user_fields/issues/10) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+3. 💪 Opened PR [#519](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/519) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+4. ℹ️ Assigned issue [#515](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/515) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+5. ℹ️ Assigned issue [#509](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/509) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
 <!--END_SECTION:activity-->
 
 ## My Stats :
