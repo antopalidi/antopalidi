@@ -27,7 +27,7 @@ Also an **IEEE Senior Member**.
 <table>
   <tr>
     <td>
-      <img width="400px" alt="Github Stats" src="https://github-readme-stats-git-master-antopalidis-projects.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true&show_owner=true" />
+      <img width="350px" alt="Github Stats" src="https://github-readme-stats-git-master-antopalidis-projects.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true&show_owner=true" />
     </td>
     <td>
       <img width="400px" alt="activity" src="https://streak-stats.demolab.com?user=antopalidi&hide_border=true" />
