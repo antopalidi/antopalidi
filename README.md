@@ -16,16 +16,16 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#18](https://github.com/openpoke/decidim-module-extra_user_fields/issues/18) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
-2. ℹ️ Assigned issue [#15](https://github.com/openpoke/decidim-module-extra_user_fields/issues/15) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
-3. ℹ️ Assigned PR [#17](https://github.com/openpoke/decidim-module-extra_user_fields/pull/17) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
-4. 🎉 Merged PR [#518](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/518) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-5. 💪 Opened PR [#17](https://github.com/openpoke/decidim-module-extra_user_fields/pull/17) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
-6. 🎉 Merged PR [#16](https://github.com/openpoke/decidim-module-extra_user_fields/pull/16) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
-7. 💪 Opened PR [#16](https://github.com/openpoke/decidim-module-extra_user_fields/pull/16) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
-8. ℹ️ Assigned issue [#14](https://github.com/openpoke/decidim-module-extra_user_fields/issues/14) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
-9. ℹ️ Assigned issue [#10](https://github.com/openpoke/decidim-module-extra_user_fields/issues/10) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
-10. 💪 Opened PR [#519](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/519) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+1. 🎉 Merged PR [#519](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/519) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+2. ℹ️ Assigned issue [#18](https://github.com/openpoke/decidim-module-extra_user_fields/issues/18) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+3. ℹ️ Assigned issue [#15](https://github.com/openpoke/decidim-module-extra_user_fields/issues/15) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+4. ℹ️ Assigned PR [#17](https://github.com/openpoke/decidim-module-extra_user_fields/pull/17) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+5. 🎉 Merged PR [#518](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/518) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+6. 💪 Opened PR [#17](https://github.com/openpoke/decidim-module-extra_user_fields/pull/17) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+7. 🎉 Merged PR [#16](https://github.com/openpoke/decidim-module-extra_user_fields/pull/16) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+8. 💪 Opened PR [#16](https://github.com/openpoke/decidim-module-extra_user_fields/pull/16) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+9. ℹ️ Assigned issue [#14](https://github.com/openpoke/decidim-module-extra_user_fields/issues/14) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+10. ℹ️ Assigned issue [#10](https://github.com/openpoke/decidim-module-extra_user_fields/issues/10) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
 <!--END_SECTION:activity-->
 
 ## My Stats :
