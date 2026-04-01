@@ -16,16 +16,16 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#555](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/555) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-2. 💪 Opened PR [#555](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/555) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-3. ℹ️ Assigned issue [#547](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/547) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-4. ℹ️ Assigned issue [#548](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/548) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-5. 🎉 Merged PR [#24](https://github.com/openpoke/decidim-module-extra_user_fields/pull/24) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
-6. 🎉 Merged PR [#543](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/543) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-7. 💪 Opened PR [#24](https://github.com/openpoke/decidim-module-extra_user_fields/pull/24) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
-8. 🎉 Merged PR [#540](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/540) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-9. 💪 Opened PR [#543](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/543) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-10. 🎉 Merged PR [#23](https://github.com/openpoke/decidim-module-extra_user_fields/pull/23) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+1. ℹ️ Labeled PR [#16517](https://github.com/decidim/decidim/pull/16517) in [decidim/decidim](https://github.com/decidim/decidim)
+2. 💪 Opened PR [#16517](https://github.com/decidim/decidim/pull/16517) in [decidim/decidim](https://github.com/decidim/decidim)
+3. 🎉 Merged PR [#555](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/555) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+4. 💪 Opened PR [#555](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/555) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+5. ℹ️ Assigned issue [#547](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/547) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+6. ℹ️ Assigned issue [#548](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/548) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+7. 🎉 Merged PR [#24](https://github.com/openpoke/decidim-module-extra_user_fields/pull/24) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+8. 🎉 Merged PR [#543](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/543) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+9. 💪 Opened PR [#24](https://github.com/openpoke/decidim-module-extra_user_fields/pull/24) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
+10. 🎉 Merged PR [#540](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/540) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
 <!--END_SECTION:activity-->
 
 ## My Stats :
