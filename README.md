@@ -16,16 +16,16 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#8](https://github.com/openpoke/decidim-module-extra_censuses/issues/8) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
-2. ℹ️ Assigned issue [#100](https://github.com/openpoke/decidim/issues/100) in [openpoke/decidim](https://github.com/openpoke/decidim)
-3. ℹ️ Labeled PR [#16517](https://github.com/decidim/decidim/pull/16517) in [decidim/decidim](https://github.com/decidim/decidim)
-4. 💪 Opened PR [#16517](https://github.com/decidim/decidim/pull/16517) in [decidim/decidim](https://github.com/decidim/decidim)
-5. 🎉 Merged PR [#555](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/555) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-6. 💪 Opened PR [#555](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/555) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-7. ℹ️ Assigned issue [#547](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/547) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-8. ℹ️ Assigned issue [#548](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/548) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-9. 🎉 Merged PR [#24](https://github.com/openpoke/decidim-module-extra_user_fields/pull/24) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
-10. 🎉 Merged PR [#543](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/543) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+1. 💪 Opened PR [#9](https://github.com/openpoke/decidim-module-extra_censuses/pull/9) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
+2. ℹ️ Assigned issue [#8](https://github.com/openpoke/decidim-module-extra_censuses/issues/8) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
+3. ℹ️ Assigned issue [#100](https://github.com/openpoke/decidim/issues/100) in [openpoke/decidim](https://github.com/openpoke/decidim)
+4. ℹ️ Labeled PR [#16517](https://github.com/decidim/decidim/pull/16517) in [decidim/decidim](https://github.com/decidim/decidim)
+5. 💪 Opened PR [#16517](https://github.com/decidim/decidim/pull/16517) in [decidim/decidim](https://github.com/decidim/decidim)
+6. 🎉 Merged PR [#555](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/555) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+7. 💪 Opened PR [#555](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/555) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+8. ℹ️ Assigned issue [#547](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/547) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+9. ℹ️ Assigned issue [#548](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/548) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+10. 🎉 Merged PR [#24](https://github.com/openpoke/decidim-module-extra_user_fields/pull/24) in [openpoke/decidim-module-extra_user_fields](https://github.com/openpoke/decidim-module-extra_user_fields)
 <!--END_SECTION:activity-->
 
 ## My Stats :
