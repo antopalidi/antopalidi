@@ -16,16 +16,16 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#139](https://github.com/GetxoUdala/decidim-getxo/pull/139) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
-2. 🗣 Commented on [#10](https://github.com/openpoke/decidim-module-extra_censuses/pull/10#issuecomment-4267334485) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
-3. 💪 Opened PR [#10](https://github.com/openpoke/decidim-module-extra_censuses/pull/10) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
-4. 🎉 Merged PR [#9](https://github.com/openpoke/decidim-module-extra_censuses/pull/9) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
-5. 💪 Opened PR [#9](https://github.com/openpoke/decidim-module-extra_censuses/pull/9) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
-6. ℹ️ Assigned issue [#8](https://github.com/openpoke/decidim-module-extra_censuses/issues/8) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
-7. ℹ️ Assigned issue [#100](https://github.com/openpoke/decidim/issues/100) in [openpoke/decidim](https://github.com/openpoke/decidim)
-8. ℹ️ Labeled PR [#16517](https://github.com/decidim/decidim/pull/16517) in [decidim/decidim](https://github.com/decidim/decidim)
-9. 💪 Opened PR [#16517](https://github.com/decidim/decidim/pull/16517) in [decidim/decidim](https://github.com/decidim/decidim)
-10. 🎉 Merged PR [#555](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/555) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+1. 🎉 Merged PR [#139](https://github.com/GetxoUdala/decidim-getxo/pull/139) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
+2. 💪 Opened PR [#139](https://github.com/GetxoUdala/decidim-getxo/pull/139) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
+3. 🗣 Commented on [#10](https://github.com/openpoke/decidim-module-extra_censuses/pull/10#issuecomment-4267334485) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
+4. 💪 Opened PR [#10](https://github.com/openpoke/decidim-module-extra_censuses/pull/10) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
+5. 🎉 Merged PR [#9](https://github.com/openpoke/decidim-module-extra_censuses/pull/9) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
+6. 💪 Opened PR [#9](https://github.com/openpoke/decidim-module-extra_censuses/pull/9) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
+7. ℹ️ Assigned issue [#8](https://github.com/openpoke/decidim-module-extra_censuses/issues/8) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
+8. ℹ️ Assigned issue [#100](https://github.com/openpoke/decidim/issues/100) in [openpoke/decidim](https://github.com/openpoke/decidim)
+9. ℹ️ Labeled PR [#16517](https://github.com/decidim/decidim/pull/16517) in [decidim/decidim](https://github.com/decidim/decidim)
+10. 💪 Opened PR [#16517](https://github.com/decidim/decidim/pull/16517) in [decidim/decidim](https://github.com/decidim/decidim)
 <!--END_SECTION:activity-->
 
 ## My Stats :
