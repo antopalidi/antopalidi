@@ -16,16 +16,16 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#584](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/584) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-2. 💪 Opened PR [#584](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/584) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-3. ℹ️ Assigned issue [#583](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/583) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-4. 🎉 Merged PR [#332](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/332) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
-5. 💪 Opened PR [#332](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/332) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
-6. 🎉 Merged PR [#580](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/580) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-7. 💪 Opened PR [#580](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/580) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-8. 🎉 Merged PR [#139](https://github.com/GetxoUdala/decidim-getxo/pull/139) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
-9. 💪 Opened PR [#139](https://github.com/GetxoUdala/decidim-getxo/pull/139) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
-10. 🗣 Commented on [#10](https://github.com/openpoke/decidim-module-extra_censuses/pull/10#issuecomment-4267334485) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
+1. 💪 Opened PR [#152](https://github.com/SomComuns/decidim-catencomu/pull/152) in [SomComuns/decidim-catencomu](https://github.com/SomComuns/decidim-catencomu)
+2. 🎉 Merged PR [#584](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/584) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+3. 💪 Opened PR [#584](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/584) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+4. ℹ️ Assigned issue [#583](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/583) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+5. 🎉 Merged PR [#332](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/332) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
+6. 💪 Opened PR [#332](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/332) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
+7. 🎉 Merged PR [#580](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/580) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+8. 💪 Opened PR [#580](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/580) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+9. 🎉 Merged PR [#139](https://github.com/GetxoUdala/decidim-getxo/pull/139) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
+10. 💪 Opened PR [#139](https://github.com/GetxoUdala/decidim-getxo/pull/139) in [GetxoUdala/decidim-getxo](https://github.com/GetxoUdala/decidim-getxo)
 <!--END_SECTION:activity-->
 
 ## My Stats :
