@@ -16,16 +16,16 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#203](https://github.com/openpoke/decidim-module-action_delegator/pull/203#issuecomment-4432888374) in [openpoke/decidim-module-action_delegator](https://github.com/openpoke/decidim-module-action_delegator)
-2. 💪 Opened PR [#218](https://github.com/Som-Energia/decidim-som-energia-app/pull/218) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
-3. ℹ️ Assigned issue [#16690](https://github.com/decidim/decidim/issues/16690) in [decidim/decidim](https://github.com/decidim/decidim)
-4. ℹ️ Assigned issue [#217](https://github.com/Som-Energia/decidim-som-energia-app/issues/217) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
-5. ℹ️ Assigned issue [#125](https://github.com/openpoke/decidim-module-reporting-proposals/issues/125) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-6. 💪 Opened PR [#152](https://github.com/SomComuns/decidim-catencomu/pull/152) in [SomComuns/decidim-catencomu](https://github.com/SomComuns/decidim-catencomu)
-7. 🎉 Merged PR [#584](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/584) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-8. 💪 Opened PR [#584](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/584) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-9. ℹ️ Assigned issue [#583](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/583) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-10. 🎉 Merged PR [#332](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/332) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
+1. 🎉 Merged PR [#218](https://github.com/Som-Energia/decidim-som-energia-app/pull/218) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
+2. 🗣 Commented on [#203](https://github.com/openpoke/decidim-module-action_delegator/pull/203#issuecomment-4432888374) in [openpoke/decidim-module-action_delegator](https://github.com/openpoke/decidim-module-action_delegator)
+3. 💪 Opened PR [#218](https://github.com/Som-Energia/decidim-som-energia-app/pull/218) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
+4. ℹ️ Assigned issue [#16690](https://github.com/decidim/decidim/issues/16690) in [decidim/decidim](https://github.com/decidim/decidim)
+5. ℹ️ Assigned issue [#217](https://github.com/Som-Energia/decidim-som-energia-app/issues/217) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
+6. ℹ️ Assigned issue [#125](https://github.com/openpoke/decidim-module-reporting-proposals/issues/125) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+7. 💪 Opened PR [#152](https://github.com/SomComuns/decidim-catencomu/pull/152) in [SomComuns/decidim-catencomu](https://github.com/SomComuns/decidim-catencomu)
+8. 🎉 Merged PR [#584](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/584) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+9. 💪 Opened PR [#584](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/584) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+10. ℹ️ Assigned issue [#583](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/583) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
 <!--END_SECTION:activity-->
 
 ## My Stats :
