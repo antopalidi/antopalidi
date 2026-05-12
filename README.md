@@ -16,16 +16,16 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#217](https://github.com/Som-Energia/decidim-som-energia-app/issues/217) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
-2. ℹ️ Assigned issue [#125](https://github.com/openpoke/decidim-module-reporting-proposals/issues/125) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-3. 💪 Opened PR [#152](https://github.com/SomComuns/decidim-catencomu/pull/152) in [SomComuns/decidim-catencomu](https://github.com/SomComuns/decidim-catencomu)
-4. 🎉 Merged PR [#584](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/584) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-5. 💪 Opened PR [#584](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/584) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-6. ℹ️ Assigned issue [#583](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/583) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-7. 🎉 Merged PR [#332](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/332) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
-8. 💪 Opened PR [#332](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/332) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
-9. 🎉 Merged PR [#580](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/580) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-10. 💪 Opened PR [#580](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/580) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+1. 💪 Opened PR [#218](https://github.com/Som-Energia/decidim-som-energia-app/pull/218) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
+2. ℹ️ Assigned issue [#16690](https://github.com/decidim/decidim/issues/16690) in [decidim/decidim](https://github.com/decidim/decidim)
+3. ℹ️ Assigned issue [#217](https://github.com/Som-Energia/decidim-som-energia-app/issues/217) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
+4. ℹ️ Assigned issue [#125](https://github.com/openpoke/decidim-module-reporting-proposals/issues/125) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+5. 💪 Opened PR [#152](https://github.com/SomComuns/decidim-catencomu/pull/152) in [SomComuns/decidim-catencomu](https://github.com/SomComuns/decidim-catencomu)
+6. 🎉 Merged PR [#584](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/584) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+7. 💪 Opened PR [#584](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/584) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+8. ℹ️ Assigned issue [#583](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/583) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+9. 🎉 Merged PR [#332](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/332) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
+10. 💪 Opened PR [#332](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat/pull/332) in [CoopCat-Confederacio-de-Cooperatives/decidim-coopcat](https://github.com/CoopCat-Confederacio-de-Cooperatives/decidim-coopcat)
 <!--END_SECTION:activity-->
 
 ## My Stats :
