@@ -16,16 +16,16 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/openpoke/decidim-module-civicrm/pull/42) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
-2. 💪 Opened PR [#42](https://github.com/openpoke/decidim-module-civicrm/pull/42) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
-3. 🎉 Merged PR [#41](https://github.com/openpoke/decidim-module-civicrm/pull/41) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
-4. 💪 Opened PR [#41](https://github.com/openpoke/decidim-module-civicrm/pull/41) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
-5. ℹ️ Assigned issue [#16778](https://github.com/decidim/decidim/issues/16778) in [decidim/decidim](https://github.com/decidim/decidim)
-6. ℹ️ Assigned issue [#16777](https://github.com/decidim/decidim/issues/16777) in [decidim/decidim](https://github.com/decidim/decidim)
-7. 🎉 Merged PR [#218](https://github.com/Som-Energia/decidim-som-energia-app/pull/218) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
-8. 🗣 Commented on [#203](https://github.com/openpoke/decidim-module-action_delegator/pull/203#issuecomment-4432888374) in [openpoke/decidim-module-action_delegator](https://github.com/openpoke/decidim-module-action_delegator)
-9. 💪 Opened PR [#218](https://github.com/Som-Energia/decidim-som-energia-app/pull/218) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
-10. ℹ️ Assigned issue [#16690](https://github.com/decidim/decidim/issues/16690) in [decidim/decidim](https://github.com/decidim/decidim)
+1. 🎉 Merged PR [#10](https://github.com/openpoke/decidim-module-extra_censuses/pull/10) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
+2. 🎉 Merged PR [#42](https://github.com/openpoke/decidim-module-civicrm/pull/42) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
+3. 💪 Opened PR [#42](https://github.com/openpoke/decidim-module-civicrm/pull/42) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
+4. 🎉 Merged PR [#41](https://github.com/openpoke/decidim-module-civicrm/pull/41) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
+5. 💪 Opened PR [#41](https://github.com/openpoke/decidim-module-civicrm/pull/41) in [openpoke/decidim-module-civicrm](https://github.com/openpoke/decidim-module-civicrm)
+6. ℹ️ Assigned issue [#16778](https://github.com/decidim/decidim/issues/16778) in [decidim/decidim](https://github.com/decidim/decidim)
+7. ℹ️ Assigned issue [#16777](https://github.com/decidim/decidim/issues/16777) in [decidim/decidim](https://github.com/decidim/decidim)
+8. 🎉 Merged PR [#218](https://github.com/Som-Energia/decidim-som-energia-app/pull/218) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
+9. 🗣 Commented on [#203](https://github.com/openpoke/decidim-module-action_delegator/pull/203#issuecomment-4432888374) in [openpoke/decidim-module-action_delegator](https://github.com/openpoke/decidim-module-action_delegator)
+10. 💪 Opened PR [#218](https://github.com/Som-Energia/decidim-som-energia-app/pull/218) in [Som-Energia/decidim-som-energia-app](https://github.com/Som-Energia/decidim-som-energia-app)
 <!--END_SECTION:activity-->
 
 ## My Stats :
