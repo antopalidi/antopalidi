@@ -16,10 +16,10 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#17119](https://github.com/decidim/decidim/pull/17119) in [decidim/decidim](https://github.com/decidim/decidim)
-2. 💪 Opened PR [#17119](https://github.com/decidim/decidim/pull/17119) in [decidim/decidim](https://github.com/decidim/decidim)
-3. 💪 Opened PR [#16](https://github.com/openpoke/decidim-module-extra_censuses/pull/16) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
-4. 🎉 Merged PR [#16851](https://github.com/decidim/decidim/pull/16851) in [decidim/decidim](https://github.com/decidim/decidim)
+1. 🗣 Commented on [#116](https://github.com/openpoke/decidim-module-reporting-proposals/pull/116#issuecomment-4853738121) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+2. ℹ️ Labeled PR [#17119](https://github.com/decidim/decidim/pull/17119) in [decidim/decidim](https://github.com/decidim/decidim)
+3. 💪 Opened PR [#17119](https://github.com/decidim/decidim/pull/17119) in [decidim/decidim](https://github.com/decidim/decidim)
+4. 💪 Opened PR [#16](https://github.com/openpoke/decidim-module-extra_censuses/pull/16) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
 5. ℹ️ Assigned issue [#14](https://github.com/openpoke/decidim-module-extra_censuses/issues/14) in [openpoke/decidim-module-extra_censuses](https://github.com/openpoke/decidim-module-extra_censuses)
 6. 🎉 Merged PR [#152](https://github.com/SomComuns/decidim-catencomu/pull/152) in [SomComuns/decidim-catencomu](https://github.com/SomComuns/decidim-catencomu)
 7. 💪 Opened PR [#16851](https://github.com/decidim/decidim/pull/16851) in [decidim/decidim](https://github.com/decidim/decidim)
