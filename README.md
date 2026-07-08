@@ -16,16 +16,16 @@ Also an **IEEE Senior Member**.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#116](https://github.com/openpoke/decidim-module-reporting-proposals/pull/116) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-2. ℹ️ Unassigned PR [#116](https://github.com/openpoke/decidim-module-reporting-proposals/pull/116) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+1. 🎉 Merged PR [#17119](https://github.com/decidim/decidim/pull/17119) in [decidim/decidim](https://github.com/decidim/decidim)
+2. ℹ️ Assigned PR [#116](https://github.com/openpoke/decidim-module-reporting-proposals/pull/116) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
 3. ℹ️ Unassigned PR [#116](https://github.com/openpoke/decidim-module-reporting-proposals/pull/116) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-4. 🗣 Commented on [#17119](https://github.com/decidim/decidim/pull/17119#issuecomment-4876931431) in [decidim/decidim](https://github.com/decidim/decidim)
-5. ℹ️ Assigned issue [#114](https://github.com/openpoke/decidim-module-reporting-proposals/issues/114) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-6. 💪 Opened PR [#1](https://github.com/openpoke/Decidim-Catalunya/pull/1) in [openpoke/Decidim-Catalunya](https://github.com/openpoke/Decidim-Catalunya)
-7. 🗣 Commented on [#116](https://github.com/openpoke/decidim-module-reporting-proposals/pull/116#issuecomment-4853738121) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
-8. ℹ️ Labeled PR [#17119](https://github.com/decidim/decidim/pull/17119) in [decidim/decidim](https://github.com/decidim/decidim)
-9. 💪 Opened PR [#17119](https://github.com/decidim/decidim/pull/17119) in [decidim/decidim](https://github.com/decidim/decidim)
-10. 💪 Opened PR [#16831](https://github.com/decidim/decidim/pull/16831) in [decidim/decidim](https://github.com/decidim/decidim)
+4. ℹ️ Unassigned PR [#116](https://github.com/openpoke/decidim-module-reporting-proposals/pull/116) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+5. 🗣 Commented on [#17119](https://github.com/decidim/decidim/pull/17119#issuecomment-4876931431) in [decidim/decidim](https://github.com/decidim/decidim)
+6. ℹ️ Assigned issue [#114](https://github.com/openpoke/decidim-module-reporting-proposals/issues/114) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+7. 💪 Opened PR [#1](https://github.com/openpoke/Decidim-Catalunya/pull/1) in [openpoke/Decidim-Catalunya](https://github.com/openpoke/Decidim-Catalunya)
+8. 🗣 Commented on [#116](https://github.com/openpoke/decidim-module-reporting-proposals/pull/116#issuecomment-4853738121) in [openpoke/decidim-module-reporting-proposals](https://github.com/openpoke/decidim-module-reporting-proposals)
+9. ℹ️ Labeled PR [#17119](https://github.com/decidim/decidim/pull/17119) in [decidim/decidim](https://github.com/decidim/decidim)
+10. 💪 Opened PR [#17119](https://github.com/decidim/decidim/pull/17119) in [decidim/decidim](https://github.com/decidim/decidim)
 <!--END_SECTION:activity-->
 
 ## My Stats :
