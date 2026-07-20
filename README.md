@@ -10,16 +10,18 @@ Also an **IEEE Senior Member**.
 
 <img src="https://komarev.com/ghpvc/?username=antopalidi&color=blueviolet&style=for-the-badge">
 
+## :zap: Recent Activity
+
+[![Recent activity](https://contribfolio.com/antopalidi/activity.svg?limit=15)](https://contribfolio.com/antopalidi)
+
 ## 📩 Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anna_top)
 [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:topalididev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/topalidi/)
 <!-- [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/antopalidi) -->
 
-## :zap: Recent Activity
-
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#628](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/628) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+<!-- 1. ❗ Opened issue [#628](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/628) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
 2. 💪 Opened PR [#627](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/627) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
 3. 🎉 Merged PR [#626](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/626) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
 4. 💪 Opened PR [#626](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/626) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
@@ -28,7 +30,7 @@ Also an **IEEE Senior Member**.
 7. 💪 Opened PR [#625](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/625) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
 8. 🎉 Merged PR [#624](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/624) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
 9. 💪 Opened PR [#624](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/624) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-10. ℹ️ Labeled PR [#17305](https://github.com/decidim/decidim/pull/17305) in [decidim/decidim](https://github.com/decidim/decidim)
+10. ℹ️ Labeled PR [#17305](https://github.com/decidim/decidim/pull/17305) in [decidim/decidim](https://github.com/decidim/decidim) -->
 <!--END_SECTION:activity-->
 
 <!--
