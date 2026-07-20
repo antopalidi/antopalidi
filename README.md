@@ -5,6 +5,9 @@ and active developer behind **Decidim** — a platform for participatory democra
 
 Also an **IEEE Senior Member**.
 
+## 🧩 Open Source Contributions:
+[![Open-source contributions](https://contribfolio.com/antopalidi/card.svg?license=osi&stats=prs,commits,reviews,repos,since)](https://contribfolio.com/antopalidi)
+
 <img src="https://komarev.com/ghpvc/?username=antopalidi&color=blueviolet&style=for-the-badge">
 
 ## 📩 Contact me 
@@ -28,7 +31,8 @@ Also an **IEEE Senior Member**.
 10. ℹ️ Labeled PR [#17277](https://github.com/decidim/decidim/pull/17277) in [decidim/decidim](https://github.com/decidim/decidim)
 <!--END_SECTION:activity-->
 
-## My Stats :
+<!--
+## My Stats:
 <table>
   <tr>
     <td>
