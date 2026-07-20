@@ -9,41 +9,27 @@ Also an **IEEE Senior Member**.
 
 ## 🧩 Open Source Contributions:
 
-<a href="https://contribfolio.com/antopalidi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://contribfolio.com/antopalidi/card.svg?theme=dark"><img alt="Open-source contributions" src="https://contribfolio.com/antopalidi/card.svg"></picture></a>
+<a href="https://contribfolio.com/antopalidi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://contribfolio.com/antopalidi/card.svg?theme=dark"><img alt="Open-source contributions" src="https://contribfolio.com/antopalidi/card.svg?stats=prs,commits,repos,since"></picture></a>
 
-## :zap: Recent Activity
-
-<a href="https://contribfolio.com/antopalidi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://contribfolio.com/antopalidi/activity.svg?theme=dark&limit=15"><img alt="Recent activity" src="https://contribfolio.com/antopalidi/activity.svg?limit=15"></picture></a>
+[![Recent activity](https://contribfolio.com/antopalidi/activity/head.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi)<br>
+[![](https://contribfolio.com/antopalidi/activity/1.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/1?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/2.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/2?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/3.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/3?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/4.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/4?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/5.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/5?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/6.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/6?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/7.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/7?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/8.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/8?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/9.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/9?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/10.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/10?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/11.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/11?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/12.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/12?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/13.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/13?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/14.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/14?limit=15&theme=auto)<br>
+[![](https://contribfolio.com/antopalidi/activity/15.svg?limit=15&theme=auto)](https://contribfolio.com/antopalidi/activity/15?limit=15&theme=auto)<br>
 
 ## 📩 Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anna_top)
 [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:topalididev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/topalidi/)
 <!-- [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/antopalidi) -->
-
-<!--START_SECTION:activity-->
-<!-- 1. ❗ Opened issue [#628](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/628) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-2. 💪 Opened PR [#627](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/627) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-3. 🎉 Merged PR [#626](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/626) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-4. 💪 Opened PR [#626](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/626) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-5. ℹ️ Assigned PR [#623](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/623) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-6. 🎉 Merged PR [#625](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/625) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-7. 💪 Opened PR [#625](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/625) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-8. 🎉 Merged PR [#624](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/624) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-9. 💪 Opened PR [#624](https://github.com/decidim-ice/decidim-module-decidim_awesome/pull/624) in [decidim-ice/decidim-module-decidim_awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
-10. ℹ️ Labeled PR [#17305](https://github.com/decidim/decidim/pull/17305) in [decidim/decidim](https://github.com/decidim/decidim) -->
-<!--END_SECTION:activity-->
-
-<!--
-## My Stats:
-<table>
-  <tr>
-    <td>
-      <img alt="Github Stats" src="https://github-readme-stats-git-master-antopalidis-projects.vercel.app/api?username=antopalidi&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true&show_owner=true" />
-    </td>
-    <td>
-      <img alt="activity" src="https://streak-stats.demolab.com?user=antopalidi&hide_border=true" />
-    </td>
-  </tr>
-</table>
-<!-- <img align="top" alt="top langs" src="https://github-readme-stats-git-master-antopalidis-projects.vercel.app/api/top-langs/?username=antopalidi&layout=compact" />-->
