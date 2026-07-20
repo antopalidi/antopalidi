@@ -8,11 +8,12 @@ and active developer behind **Decidim** — a platform for participatory democra
 Also an **IEEE Senior Member**.
 
 ## 🧩 Open Source Contributions:
-[![Open-source contributions](https://contribfolio.com/antopalidi/card.svg?license=osi&stats=prs,commits,repos,since)](https://contribfolio.com/antopalidi)
+
+<a href="https://contribfolio.com/antopalidi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://contribfolio.com/antopalidi/card.svg?theme=dark"><img alt="Open-source contributions" src="https://contribfolio.com/antopalidi/card.svg"></picture></a>
 
 ## :zap: Recent Activity
 
-[![Recent activity](https://contribfolio.com/antopalidi/activity.svg?limit=15)](https://contribfolio.com/antopalidi)
+<a href="https://contribfolio.com/antopalidi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://contribfolio.com/antopalidi/activity.svg?theme=dark&limit=15"><img alt="Recent activity" src="https://contribfolio.com/antopalidi/activity.svg?limit=15"></picture></a>
 
 ## 📩 Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anna_top)
