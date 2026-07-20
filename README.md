@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Anna!
 
+<img src="https://komarev.com/ghpvc/?username=antopalidi&color=blueviolet&style=for-the-badge">
+
 A passionate **Ruby on Rails engineer**, open source contributor,  
 and active developer behind **Decidim** — a platform for participatory democracy. 
 
@@ -7,8 +9,6 @@ Also an **IEEE Senior Member**.
 
 ## 🧩 Open Source Contributions:
 [![Open-source contributions](https://contribfolio.com/antopalidi/card.svg?license=osi&stats=prs,commits,repos,since)](https://contribfolio.com/antopalidi)
-
-<img src="https://komarev.com/ghpvc/?username=antopalidi&color=blueviolet&style=for-the-badge">
 
 ## :zap: Recent Activity
 
