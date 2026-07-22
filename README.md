@@ -9,7 +9,7 @@ Also an **IEEE Senior Member**.
 
 ## 🧩 Open Source Contributions:
 
-<a href="https://contribfolio.com/antopalidi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://contribfolio.com/antopalidi/card.svg?theme=dark&stats=prs,commits,repos,since"><img src="https://contribfolio.com/antopalidi/card.svg?stats=prs,commits,repos,since" alt="Open-source contributions"></picture></a>
+<a href="https://contribfolio.com/antopalidi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://contribfolio.com/antopalidi/card.svg?theme=dark&stats=prs%2Ccommits%2Crepos%2Csince"><img src="https://contribfolio.com/antopalidi/card.svg?stats=prs,commits,repos,since" alt="Open-source contributions"></picture></a>
 
 <a href="https://contribfolio.com/antopalidi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://contribfolio.com/antopalidi/activity/head.svg?limit=15&theme=dark"><img src="https://contribfolio.com/antopalidi/activity/head.svg?limit=15" alt="Recent activity"></picture></a><br>
 <a href="https://contribfolio.com/antopalidi/activity/1?limit=15"><picture><source media="(prefers-color-scheme: dark)" srcset="https://contribfolio.com/antopalidi/activity/1.svg?limit=15&part=lead&theme=dark"><img src="https://contribfolio.com/antopalidi/activity/1.svg?limit=15&part=lead" alt=""></picture></a><a href="https://contribfolio.com/antopalidi/activity/1/repo?limit=15"><picture><source media="(prefers-color-scheme: dark)" srcset="https://contribfolio.com/antopalidi/activity/1.svg?limit=15&part=repo&theme=dark"><img src="https://contribfolio.com/antopalidi/activity/1.svg?limit=15&part=repo" alt=""></picture></a><br>
